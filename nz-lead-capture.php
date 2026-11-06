@@ -1,1 +1,114 @@
-PD9waHAKLyoqCiAqIFBsdWdpbiBOYW1lOiAgICAgICBOWiBMZWFkIENhcHR1cmUgKyBTRU8KICogUGx1Z2luIFVSSTogICAgICAgIGh0dHBzOi8vbnpnZW5peC5kaWdpdGFsLwogKiBEZXNjcmlwdGlvbjogICAgICAgTGVhZC1jYXB0dXJlIGZvcm0gKHNob3J0Y29kZSArIEFKQVgpLCBhZG1pbiBsZWFkIGluYm94IHdpdGggc3RhdHVzZXMgYW5kIENTViBleHBvcnQsIGFuZCBsaWdodHdlaWdodCBvbi1wYWdlIFNFTyAobWV0YSBkZXNjcmlwdGlvbiwgT3BlbiBHcmFwaCBhbmQgTG9jYWxCdXNpbmVzcyBzY2hlbWEpLiBCdWlsdCBhcyBhIHBvcnRmb2xpbyBkZW1vIGJ5IE5hc2lyIE5hc2Vlci4KICogVmVyc2lvbjogICAgICAgICAgIDEuMC4wCiAqIFJlcXVpcmVzIGF0IGxlYXN0OiA2LjAKICogUmVxdWlyZXMgUEhQOiAgICAgIDguMAogKiBBdXRob3I6ICAgICAgICAgICAgTmFzaXIgTmFzZWVyCiAqIEF1dGhvciBVUkk6ICAgICAgICBodHRwczovL256Z2VuaXguZGlnaXRhbC8KICogTGljZW5zZTogICAgICAgICAgIEdQTC0yLjAtb3ItbGF0ZXIKICogTGljZW5zZSBVUkk6ICAgICAgIGh0dHBzOi8vd3d3LmdudS5vcmcvbGljZW5zZXMvZ3BsLTIuMC5odG1sCiAqIFRleHQgRG9tYWluOiAgICAgICBuei1sZWFkLWNhcHR1cmUKICovCgppZiAoICEgZGVmaW5lZCggJ0FCU1BBVEgnICkgKSB7CiAgICBleGl0Owp9CgpkZWZpbmUoICdOWkxDX1ZFUlNJT04nLCAnMS4wLjAnICk7CmRlZmluZSggJ05aTENfUEFUSCcsIHBsdWdpbl9kaXJfcGF0aCggX19GSUxFX18gKSApOwpkZWZpbmUoICdOWkxDX1VSTCcsIHBsdWdpbl9kaXJfdXJsKCBfX0ZJTEVfXyApICk7CmRlZmluZSggJ05aTENfVEFCTEUnLCAnbnpsY19sZWFkcycgKTsKCnJlcXVpcmVfb25jZSBOWkxDX1BBVEggLiAnaW5jbHVkZXMvY2xhc3MtbnpsYy1zdG9yYWdlLnBocCc7CnJlcXVpcmVfb25jZSBOWkxDX1BBVEggLiAnaW5jbHVkZXMvY2xhc3MtbnpsYy1mb3JtLnBocCc7CnJlcXVpcmVfb25jZSBOWkxDX1BBVEggLiAnaW5jbHVkZXMvY2xhc3MtbnpsYy1hZG1pbi5waHAnOwpyZXF1aXJlX29uY2UgTlpMQ19QQVRIIC4gJ2luY2x1ZGVzL2NsYXNzLW56bGMtc2VvLnBocCc7CnJlcXVpcmVfb25jZSBOWkxDX1BBVEggLiAnaW5jbHVkZXMvY2xhc3MtbnpsYy1yZXN0LnBocCc7CgovKioKICogQWN0aXZhdGlvbjogY3JlYXRlIHRoZSBsZWFkcyB0YWJsZSBhbmQgc2V0IHNlbnNpYmxlIGRlZmF1bHRzLgogKiBUaGUgdGFibGUgaXMgY3JlYXRlZCB3aXRoIGRiRGVsdGEgc28gcmUtYWN0aXZhdGlvbiAvIHVwZ3JhZGVzIGFyZSBzYWZlLgogKi8KZnVuY3Rpb24gbnpsY19hY3RpdmF0ZSgpIHsKICAgIGdsb2JhbCAkd3BkYjsKICAgIHJlcXVpcmVfb25jZSBBQlNQQVRIIC4gJ3dwLWFkbWluL2luY2x1ZGVzL3VwZ3JhZGUucGhwJzsKICAgICR0YWJsZSAgID0gJHdwZGItPnByZWZpeCAuIE5aTENfVEFCTEU7CiAgICAkY2hhcnNldCA9ICR3cGRiLT5nZXRfY2hhcnNldF9jb2xsYXRlKCk7CiAgICAkc3FsICAgICA9ICJDUkVBVEUgVEFCTEUgeyR0YWJsZX0gKAogICAgICAgIGlkIG1lZGl1bWludCg5KSBVTlNJR05FRCBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCwKICAgICAgICBuYW1lIHZhcmNoYXIoMTIwKSBOT1QgTlVMTCwKICAgICAgICBlbWFpbCB2YXJjaGFyKDEyMCkgTk9UIE5VTEwsCiAgICAgICAgcGhvbmUgdmFyY2hhcig0MCkgREVGQVVMVCAnJywKICAgICAgICBzZXJ2aWNlIHZhcmNoYXIoODApIERFRkFVTFQgJycsCiAgICAgICAgbWVzc2FnZSB0ZXh0IE5PVCBOVUxMLAogICAgICAgIHN0YXR1cyB2YXJjaGFyKDIwKSBOT1QgTlVMTCBERUZBVUxUICduZXcnLAogICAgICAgIHNvdXJjZSB2YXJjaGFyKDEyMCkgREVGQVVMVCAnJywKICAgICAgICBjcmVhdGVkX2F0IGRhdGV0aW1lIE5PVCBOVUxMIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAsCiAgICAgICAgUFJJTUFSWSBLRVkgKGlkKSwKICAgICAgICBLRVkgZW1haWwgKGVtYWlsKSwKICAgICAgICBLRVkgc3RhdHVzIChzdGF0dXMpLAogICAgICAgIEtFWSBjcmVhdGVkX2F0IChjcmVhdGVkX2F0KQogICAgKSB7JGNoYXJzZXR9OyI7CiAgICBkYkRlbHRhKCAkc3FsICk7CiAgICBhZGRfb3B0aW9uKCAnbnpsY19ub3RpZnlfZW1haWwnLCBnZXRfb3B0aW9uKCAnYWRtaW5fZW1haWwnICkgKTsKICAgIGFkZF9vcHRpb24oICduemxjX3N1Y2Nlc3NfbWVzc2FnZScsIF9fKCAnVGhhbmtzISBXZSB3aWxsIGdldCBiYWNrIHRvIHlvdSB3aXRoaW4gb25lIGJ1c2luZXNzIGRheS4nLCAnbnotbGVhZC1jYXB0dXJlJyApICk7CiAgICBhZGRfb3B0aW9uKCAnbnpsY19zZW9fZW5hYmxlZCcsICcxJyApOwogICAgYWRkX29wdGlvbiggJ256bGNfYnVzaW5lc3NfbmFtZScsIGdldF9ibG9naW5mbyggJ25hbWUnICkgKTsKfQpyZWdpc3Rlcl9hY3RpdmF0aW9uX2hvb2soIF9fRklMRV9fLCAnbnpsY19hY3RpdmF0ZScgKTsKCi8qKgogKiBEZWFjdGl2YXRpb246IHN0b3AgdGhlIGNyb24tZnJlZSBwbHVnaW4gY2xlYW5seS4gRGF0YSBpcyBrZXB0IHNvIGEKICogcmUtYWN0aXZhdGlvbiBkb2VzIG5vdCB3aXBlIHRoZSBsZWFkIGluYm94LiBTZWUgdW5pbnN0YWxsLnBocCBmb3IgcmVtb3ZhbC4KICovCmZ1bmN0aW9uIG56bGNfZGVhY3RpdmF0ZSgpIHsKICAgIHdwX2NsZWFyX3NjaGVkdWxlZF9ob29rKCAnbnpsY19kYWlseV9jbGVhbnVwJyApOwp9CnJlZ2lzdGVyX2RlYWN0aXZhdGlvbl9ob29rKCBfX0ZJTEVfXywgJ256bGNfZGVhY3RpdmF0ZScgKTsKCi8qKgogKiBCb290IHRoZSBwbHVnaW4gb25jZSBXb3JkUHJlc3MgaGFzIGxvYWRlZCBpdHMgQVBJcy4KICovCmZ1bmN0aW9uIG56bGNfYm9vdCgpIHsKICAgIE5aTENfU3RvcmFnZTo6aW5pdCgpOwogICAgTlpMQ19Gb3JtOjppbml0KCk7CiAgICBOWkxDX0FkbWluOjppbml0KCk7CiAgICBOWkxDX1NFTzo6aW5pdCgpOwogICAgTlpMQ19SRVNUOjppbml0KCk7Cn0KYWRkX2FjdGlvbiggJ3BsdWdpbnNfbG9hZGVkJywgJ256bGNfYm9vdCcgKTsKCi8qKgogKiBMb2FkIHBsdWdpbiB0ZXh0IGRvbWFpbiBmb3IgdHJhbnNsYXRpb25zLgogKi8KZnVuY3Rpb24gbnpsY19sb2FkX3RleHRkb21haW4oKSB7CiAgICBsb2FkX3BsdWdpbl90ZXh0ZG9tYWluKCAnbnotbGVhZC1jYXB0dXJlJywgZmFsc2UsIGRpcm5hbWUoIHBsdWdpbl9iYXNlbmFtZSggX19GSUxFX18gKSApIC4gJy9sYW5ndWFnZXMnICk7Cn0KYWRkX2FjdGlvbiggJ2luaXQnLCAnbnpsY19sb2FkX3RleHRkb21haW4nICk7CgovKioKICogRW5xdWV1ZSBmcm9udC1lbmQgYXNzZXRzIG9ubHkgb24gcGFnZXMgdGhhdCBhY3R1YWxseSBjb250YWluIHRoZSBmb3JtLAogKiBzbyB0aGUgcGx1Z2luIGFkZHMgbm8gd2VpZ2h0IHRvIHRoZSByZXN0IG9mIHRoZSBzaXRlLgogKi8KZnVuY3Rpb24gbnpsY19lbnF1ZXVlX2Fzc2V0cygpIHsKICAgIGlmICggISBpc19zaW5ndWxhcigpICkgewogICAgICAgIHJldHVybjsKICAgIH0KICAgIGdsb2JhbCAkcG9zdDsKICAgIGlmICggJHBvc3QgJiYgaGFzX3Nob3J0Y29kZSggJHBvc3QtPnBvc3RfY29udGVudCwgJ256X2xlYWRfZm9ybScgKSApIHsKICAgICAgICB3cF9lbnF1ZXVlX3N0eWxlKCAnbnpsYy1mcm9udGVuZCcsIE5aTENfVVJMIC4gJ2Fzc2V0cy9jc3MvZnJvbnRlbmQuY3NzJywgYXJyYXkoKSwgTlpMQ19WRVJTSU9OICk7CiAgICAgICAgd3BfZW5xdWV1ZV9zY3JpcHQoICduemxjLWZyb250ZW5kJywgTlpMQ19VUkwgLiAnYXNzZXRzL2pzL2Zyb250ZW5kLmpzJywgYXJyYXkoKSwgTlpMQ19WRVJTSU9OLCB0cnVlICk7CiAgICAgICAgd3BfbG9jYWxpemVfc2NyaXB0KAogICAgICAgICAgICAnbnpsYy1mcm9udGVuZCcsCiAgICAgICAgICAgICdOWkxDJywKICAgICAgICAgICAgYXJyYXkoCiAgICAgICAgICAgICAgICAnYWpheFVybCcgPT4gYWRtaW5fdXJsKCAnYWRtaW4tYWpheC5waHAnICksCiAgICAgICAgICAgICAgICAnbm9uY2UnICAgPT4gd3BfY3JlYXRlX25vbmNlKCAnbnpsY19zdWJtaXQnICksCiAgICAgICAgICAgICkKICAgICAgICApOwogICAgfQp9CmFkZF9hY3Rpb24oICd3cF9lbnF1ZXVlX3NjcmlwdHMnLCAnbnpsY19lbnF1ZXVlX2Fzc2V0cycgKTsK
+<?php
+/**
+ * Plugin Name:       NZ Lead Capture + SEO
+ * Plugin URI:        https://nzgenix.digital/
+ * Description:       Lead-capture form (shortcode + AJAX), admin lead inbox with statuses and CSV export, and lightweight on-page SEO (meta description, Open Graph and LocalBusiness schema). Built as a portfolio demo by Nasir Naseer.
+ * Version:           1.0.0
+ * Requires at least: 6.0
+ * Requires PHP:      8.0
+ * Author:            Nasir Naseer
+ * Author URI:        https://nzgenix.digital/
+ * License:           GPL-2.0-or-later
+ * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain:       nz-lead-capture
+ */
+
+if ( ! defined( 'ABSPATH' ) ) {
+    exit;
+}
+
+define( 'NZLC_VERSION', '1.0.0' );
+define( 'NZLC_PATH', plugin_dir_path( __FILE__ ) );
+define( 'NZLC_URL', plugin_dir_url( __FILE__ ) );
+define( 'NZLC_TABLE', 'nzlc_leads' );
+
+require_once NZLC_PATH . 'includes/class-nzlc-storage.php';
+require_once NZLC_PATH . 'includes/class-nzlc-form.php';
+require_once NZLC_PATH . 'includes/class-nzlc-admin.php';
+require_once NZLC_PATH . 'includes/class-nzlc-seo.php';
+require_once NZLC_PATH . 'includes/class-nzlc-rest.php';
+
+/**
+ * Activation: create the leads table and set sensible defaults.
+ * The table is created with dbDelta so re-activation / upgrades are safe.
+ */
+function nzlc_activate() {
+    global $wpdb;
+    require_once ABSPATH . 'wp-admin/includes/upgrade.php';
+    $table   = $wpdb->prefix . NZLC_TABLE;
+    $charset = $wpdb->get_charset_collate();
+    $sql     = "CREATE TABLE {$table} (
+        id mediumint(9) UNSIGNED NOT NULL AUTO_INCREMENT,
+        name varchar(120) NOT NULL,
+        email varchar(120) NOT NULL,
+        phone varchar(40) DEFAULT '',
+        service varchar(80) DEFAULT '',
+        message text NOT NULL,
+        status varchar(20) NOT NULL DEFAULT 'new',
+        source varchar(120) DEFAULT '',
+        created_at datetime NOT NULL DEFAULT CURRENT_TIMESTAMP,
+        PRIMARY KEY (id),
+        KEY email (email),
+        KEY status (status),
+        KEY created_at (created_at)
+    ) {$charset};";
+    dbDelta( $sql );
+    add_option( 'nzlc_notify_email', get_option( 'admin_email' ) );
+    add_option( 'nzlc_success_message', __( 'Thanks! We will get back to you within one business day.', 'nz-lead-capture' ) );
+    add_option( 'nzlc_seo_enabled', '1' );
+    add_option( 'nzlc_business_name', get_bloginfo( 'name' ) );
+}
+register_activation_hook( __FILE__, 'nzlc_activate' );
+
+/**
+ * Deactivation: stop the cron-free plugin cleanly. Data is kept so a
+ * re-activation does not wipe the lead inbox. See uninstall.php for removal.
+ */
+function nzlc_deactivate() {
+    wp_clear_scheduled_hook( 'nzlc_daily_cleanup' );
+}
+register_deactivation_hook( __FILE__, 'nzlc_deactivate' );
+
+/**
+ * Boot the plugin once WordPress has loaded its APIs.
+ */
+function nzlc_boot() {
+    NZLC_Storage::init();
+    NZLC_Form::init();
+    NZLC_Admin::init();
+    NZLC_SEO::init();
+    NZLC_REST::init();
+}
+add_action( 'plugins_loaded', 'nzlc_boot' );
+
+/**
+ * Load plugin text domain for translations.
+ */
+function nzlc_load_textdomain() {
+    load_plugin_textdomain( 'nz-lead-capture', false, dirname( plugin_basename( __FILE__ ) ) . '/languages' );
+}
+add_action( 'init', 'nzlc_load_textdomain' );
+
+/**
+ * Enqueue front-end assets only on pages that actually contain the form,
+ * so the plugin adds no weight to the rest of the site.
+ */
+function nzlc_enqueue_assets() {
+    if ( ! is_singular() ) {
+        return;
+    }
+    global $post;
+    if ( $post && has_shortcode( $post->post_content, 'nz_lead_form' ) ) {
+        wp_enqueue_style( 'nzlc-frontend', NZLC_URL . 'assets/css/frontend.css', array(), NZLC_VERSION );
+        wp_enqueue_script( 'nzlc-frontend', NZLC_URL . 'assets/js/frontend.js', array(), NZLC_VERSION, true );
+        wp_localize_script(
+            'nzlc-frontend',
+            'NZLC',
+            array(
+                'ajaxUrl' => admin_url( 'admin-ajax.php' ),
+                'nonce'   => wp_create_nonce( 'nzlc_submit' ),
+            )
+        );
+    }
+}
+add_action( 'wp_enqueue_scripts', 'nzlc_enqueue_assets' );
