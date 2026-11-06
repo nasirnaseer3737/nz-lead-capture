@@ -1,1 +1,17 @@
-PD9waHAKLyoqCiAqIFVuaW5zdGFsbDogcmVtb3ZlIHRoZSBsZWFkcyB0YWJsZSBhbmQgYWxsIHBsdWdpbiBvcHRpb25zLgogKiBSdW5zIG9ubHkgd2hlbiB0aGUgcGx1Z2luIGlzIGRlbGV0ZWQgZnJvbSBXb3JkUHJlc3MsIG5vdCBvbiBkZWFjdGl2YXRpb24uCiAqLwppZiAoICEgZGVmaW5lZCggJ1dQX1VOSU5TVEFMTF9QTFVHSU4nICkgKSB7CiAgICBleGl0Owp9CgpnbG9iYWwgJHdwZGI7CiR0YWJsZSA9ICR3cGRiLT5wcmVmaXggLiAnbnpsY19sZWFkcyc7CiR3cGRiLT5xdWVyeSggIkRST1AgVEFCTEUgSUYgRVhJU1RTIHskdGFibGV9IiApOyAvLyBwaHBjczppZ25vcmUgV29yZFByZXNzLkRCLlByZXBhcmVkU1FMLk5vdFByZXBhcmVkCgpkZWxldGVfb3B0aW9uKCAnbnpsY19ub3RpZnlfZW1haWwnICk7CmRlbGV0ZV9vcHRpb24oICduemxjX3N1Y2Nlc3NfbWVzc2FnZScgKTsKZGVsZXRlX29wdGlvbiggJ256bGNfc2VvX2VuYWJsZWQnICk7CmRlbGV0ZV9vcHRpb24oICduemxjX2J1c2luZXNzX25hbWUnICk7Cg==
+<?php
+/**
+ * Uninstall: remove the leads table and all plugin options.
+ * Runs only when the plugin is deleted from WordPress, not on deactivation.
+ */
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+    exit;
+}
+
+global $wpdb;
+$table = $wpdb->prefix . 'nzlc_leads';
+$wpdb->query( "DROP TABLE IF EXISTS {$table}" ); // phpcs:ignore WordPress.DB.PreparedSQL.NotPrepared
+
+delete_option( 'nzlc_notify_email' );
+delete_option( 'nzlc_success_message' );
+delete_option( 'nzlc_seo_enabled' );
+delete_option( 'nzlc_business_name' );
