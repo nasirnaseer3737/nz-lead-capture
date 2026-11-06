@@ -1,1 +1,66 @@
-PD9waHAKLyoqCiAqIExpZ2h0d2VpZ2h0IG9uLXBhZ2UgU0VPOiBvbmx5IGZpbGxzIGdhcHMsIG5ldmVyIG92ZXJ3cml0ZXMgYW4gU0VPCiAqIHBsdWdpbi4gSWYgYSBkZXNjcmlwdGlvbiBvciBPRyB0YWdzIGFscmVhZHkgZXhpc3QsIHRoaXMgc3RheXMgcXVpZXQuCiAqLwppZiAoICEgZGVmaW5lZCggJ0FCU1BBVEgnICkgKSB7CiAgICBleGl0Owp9CgpjbGFzcyBOWkxDX1NFTyB7CgogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBpbml0KCkgewogICAgICAgIGFkZF9hY3Rpb24oICd3cF9oZWFkJywgYXJyYXkoIF9fQ0xBU1NfXywgJ291dHB1dCcgKSwgNSApOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZW5hYmxlZCgpIHsKICAgICAgICByZXR1cm4gJzEnID09PSBnZXRfb3B0aW9uKCAnbnpsY19zZW9fZW5hYmxlZCcsICcxJyApOwogICAgfQoKICAgIC8qKgogICAgICogQnVpbGQgdGhlIGZhbGxiYWNrIGRlc2NyaXB0aW9uOiB0aGUgcGFnZSBleGNlcnB0LCB0aGVuIHRoZSBzaXRlCiAgICAgKiB0YWdsaW5lLiBDYXBwZWQgYXQgMTYwIGNoYXJhY3RlcnMsIGFzIHNlYXJjaCBzbmlwcGV0cyBleHBlY3QuCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZGVzY3JpcHRpb24oKSB7CiAgICAgICAgaWYgKCBpc19zaW5ndWxhcigpICkgewogICAgICAgICAgICAkdGV4dCA9IGdldF90aGVfZXhjZXJwdCgpOwogICAgICAgICAgICBpZiAoICR0ZXh0ICkgewogICAgICAgICAgICAgICAgcmV0dXJuIG1iX3N1YnN0ciggd3Bfc3RyaXBfYWxsX3RhZ3MoICR0ZXh0ICksIDAsIDE2MCApOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBtYl9zdWJzdHIoIGdldF9ibG9naW5mbyggJ2Rlc2NyaXB0aW9uJyApLCAwLCAxNjAgKTsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIG91dHB1dCgpIHsKICAgICAgICBpZiAoICEgc2VsZjo6ZW5hYmxlZCgpIHx8IGlzX2FkbWluKCkgKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgLy8gUmVzcGVjdCBkZWRpY2F0ZWQgU0VPIHBsdWdpbnMgd2hlbiB0aGV5IGFyZSBhY3RpdmUuCiAgICAgICAgaWYgKCBkZWZpbmVkKCAnV1BTRU9fVkVSU0lPTicgKSB8fCBkZWZpbmVkKCAnUkFOS19NQVRIX1ZFUlNJT04nICkgfHwgZGVmaW5lZCggJ0FJT1NFT19WRVJTSU9OJyApICkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgICRkZXNjID0gc2VsZjo6ZGVzY3JpcHRpb24oKTsKICAgICAgICBpZiAoICRkZXNjICkgewogICAgICAgICAgICBlY2hvICc8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iJyAuIGVzY19hdHRyKCAkZGVzYyApIC4gJyIgLz4nIC4gIlxuIjsKICAgICAgICB9CiAgICAgICAgaWYgKCBpc19zaW5ndWxhcigpICkgewogICAgICAgICAgICBlY2hvICc8bWV0YSBwcm9wZXJ0eT0ib2c6dGl0bGUiIGNvbnRlbnQ9IicgLiBlc2NfYXR0ciggZ2V0X3RoZV90aXRsZSgpICkgLiAnIiAvPicgLiAiXG4iOwogICAgICAgICAgICBlY2hvICc8bWV0YSBwcm9wZXJ0eT0ib2c6dHlwZSIgY29udGVudD0id2Vic2l0ZSIgLz4nIC4gIlxuIjsKICAgICAgICAgICAgZWNobyAnPG1ldGEgcHJvcGVydHk9Im9nOnVybCIgY29udGVudD0iJyAuIGVzY191cmwoIGdldF9wZXJtYWxpbmsoKSApIC4gJyIgLz4nIC4gIlxuIjsKICAgICAgICAgICAgaWYgKCAkZGVzYyApIHsKICAgICAgICAgICAgICAgIGVjaG8gJzxtZXRhIHByb3BlcnR5PSJvZzpkZXNjcmlwdGlvbiIgY29udGVudD0iJyAuIGVzY19hdHRyKCAkZGVzYyApIC4gJyIgLz4nIC4gIlxuIjsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICAkYnVzaW5lc3MgPSBnZXRfb3B0aW9uKCAnbnpsY19idXNpbmVzc19uYW1lJywgZ2V0X2Jsb2dpbmZvKCAnbmFtZScgKSApOwogICAgICAgIGlmICggJGJ1c2luZXNzICYmIGlzX2Zyb250X3BhZ2UoKSApIHsKICAgICAgICAgICAgJHNjaGVtYSA9IGFycmF5KAogICAgICAgICAgICAgICAgJ0Bjb250ZXh0JyAgICA9PiAnaHR0cHM6Ly9zY2hlbWEub3JnJywKICAgICAgICAgICAgICAgICdAdHlwZScgICAgICAgPT4gJ0xvY2FsQnVzaW5lc3MnLAogICAgICAgICAgICAgICAgJ25hbWUnICAgICAgICA9PiAkYnVzaW5lc3MsCiAgICAgICAgICAgICAgICAndXJsJyAgICAgICAgID0+IGhvbWVfdXJsKCAnLycgKSwKICAgICAgICAgICAgICAgICdkZXNjcmlwdGlvbicgPT4gJGRlc2MsCiAgICAgICAgICAgICk7CiAgICAgICAgICAgIGVjaG8gJzxzY3JpcHQgdHlwZT0iYXBwbGljYXRpb24vbGQranNvbiI+JyAuIHdwX2pzb25fZW5jb2RlKCAkc2NoZW1hICkgLiAnPC9zY3JpcHQ+JyAuICJcbiI7CiAgICAgICAgfQogICAgfQp9Cg==
+<?php
+/**
+ * Lightweight on-page SEO: only fills gaps, never overwrites an SEO
+ * plugin. If a description or OG tags already exist, this stays quiet.
+ */
+if ( ! defined( 'ABSPATH' ) ) {
+    exit;
+}
+
+class NZLC_SEO {
+
+    public static function init() {
+        add_action( 'wp_head', array( __CLASS__, 'output' ), 5 );
+    }
+
+    public static function enabled() {
+        return '1' === get_option( 'nzlc_seo_enabled', '1' );
+    }
+
+    /**
+     * Build the fallback description: the page excerpt, then the site
+     * tagline. Capped at 160 characters, as search snippets expect.
+     */
+    public static function description() {
+        if ( is_singular() ) {
+            $text = get_the_excerpt();
+            if ( $text ) {
+                return mb_substr( wp_strip_all_tags( $text ), 0, 160 );
+            }
+        }
+        return mb_substr( get_bloginfo( 'description' ), 0, 160 );
+    }
+
+    public static function output() {
+        if ( ! self::enabled() || is_admin() ) {
+            return;
+        }
+        // Respect dedicated SEO plugins when they are active.
+        if ( defined( 'WPSEO_VERSION' ) || defined( 'RANK_MATH_VERSION' ) || defined( 'AIOSEO_VERSION' ) ) {
+            return;
+        }
+        $desc = self::description();
+        if ( $desc ) {
+            echo '<meta name="description" content="' . esc_attr( $desc ) . '" />' . "\n";
+        }
+        if ( is_singular() ) {
+            echo '<meta property="og:title" content="' . esc_attr( get_the_title() ) . '" />' . "\n";
+            echo '<meta property="og:type" content="website" />' . "\n";
+            echo '<meta property="og:url" content="' . esc_url( get_permalink() ) . '" />' . "\n";
+            if ( $desc ) {
+                echo '<meta property="og:description" content="' . esc_attr( $desc ) . '" />' . "\n";
+            }
+        }
+        $business = get_option( 'nzlc_business_name', get_bloginfo( 'name' ) );
+        if ( $business && is_front_page() ) {
+            $schema = array(
+                '@context'    => 'https://schema.org',
+                '@type'       => 'LocalBusiness',
+                'name'        => $business,
+                'url'         => home_url( '/' ),
+                'description' => $desc,
+            );
+            echo '<script type="application/ld+json">' . wp_json_encode( $schema ) . '</script>' . "\n";
+        }
+    }
+}
