@@ -1,1 +1,145 @@
-PD9waHAKLyoqCiAqIExlYWQgc3RvcmFnZTogYSBkZWRpY2F0ZWQgY3VzdG9tIHRhYmxlLCBhY2Nlc3NlZCBvbmx5IHRocm91Z2ggJHdwZGIKICogcHJlcGFyZWQgc3RhdGVtZW50cy4gTm8gcmF3IHVzZXIgaW5wdXQgZXZlciByZWFjaGVzIGEgcXVlcnkuCiAqLwppZiAoICEgZGVmaW5lZCggJ0FCU1BBVEgnICkgKSB7CiAgICBleGl0Owp9CgpjbGFzcyBOWkxDX1N0b3JhZ2UgewoKICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gaW5pdCgpIHsKICAgICAgICAvLyBTdG9yYWdlIGlzIHVzZWQgb24gZGVtYW5kOyBubyBob29rcyBhcmUgcmVxdWlyZWQgdG8gYm9vdCBpdC4KICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBmdW5jdGlvbiB0YWJsZSgpIHsKICAgICAgICBnbG9iYWwgJHdwZGI7CiAgICAgICAgcmV0dXJuICR3cGRiLT5wcmVmaXggLiBOWkxDX1RBQkxFOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gYWxsb3dlZF9zdGF0dXNlcygpIHsKICAgICAgICByZXR1cm4gYXJyYXkoICduZXcnLCAnY29udGFjdGVkJywgJ3dvbicsICdsb3N0JyApOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gYWxsb3dlZF9zZXJ2aWNlcygpIHsKICAgICAgICByZXR1cm4gYXJyYXkoCiAgICAgICAgICAgICd3ZWItZGV2ZWxvcG1lbnQnID0+IF9fKCAnV2ViIERldmVsb3BtZW50JywgJ256LWxlYWQtY2FwdHVyZScgKSwKICAgICAgICAgICAgJ3dvcmRwcmVzcycgICAgICAgPT4gX18oICdXb3JkUHJlc3MgRGV2ZWxvcG1lbnQnLCAnbnotbGVhZC1jYXB0dXJlJyApLAogICAgICAgICAgICAnYWktYXV0b21hdGlvbicgICA9PiBfXyggJ0FJIEF1dG9tYXRpb24nLCAnbnotbGVhZC1jYXB0dXJlJyApLAogICAgICAgICAgICAnYWktc2VvJyAgICAgICAgICA9PiBfXyggJ0FJIFNFTycsICduei1sZWFkLWNhcHR1cmUnICksCiAgICAgICAgICAgICdsZWFkLWdlbmVyYXRpb24nID0+IF9fKCAnTGVhZCBHZW5lcmF0aW9uJywgJ256LWxlYWQtY2FwdHVyZScgKSwKICAgICAgICAgICAgJ290aGVyJyAgICAgICAgICAgPT4gX18oICdTb21ldGhpbmcgZWxzZScsICduei1sZWFkLWNhcHR1cmUnICksCiAgICAgICAgKTsKICAgIH0KCiAgICAvKioKICAgICAqIEluc2VydCBhIHZhbGlkYXRlZCBsZWFkLiBSZXR1cm5zIHRoZSBuZXcgcm93IElELCBvciAwIG9uIGZhaWx1cmUuCiAgICAgKgogICAgICogQHBhcmFtIGFycmF5ICRkYXRhIFNhbml0aXplZCBsZWFkIGZpZWxkcy4KICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBpbnNlcnQoIGFycmF5ICRkYXRhICkgewogICAgICAgIGdsb2JhbCAkd3BkYjsKICAgICAgICAkaW5zZXJ0ZWQgPSAkd3BkYi0+aW5zZXJ0KAogICAgICAgICAgICBzZWxmOjp0YWJsZSgpLAogICAgICAgICAgICBhcnJheSgKICAgICAgICAgICAgICAgICduYW1lJyAgICAgICA9PiAkZGF0YVsnbmFtZSddLAogICAgICAgICAgICAgICAgJ2VtYWlsJyAgICAgID0+ICRkYXRhWydlbWFpbCddLAogICAgICAgICAgICAgICAgJ3Bob25lJyAgICAgID0+IGlzc2V0KCAkZGF0YVsncGhvbmUnXSApID8gJGRhdGFbJ3Bob25lJ10gOiAnJywKICAgICAgICAgICAgICAgICdzZXJ2aWNlJyAgICA9PiBpc3NldCggJGRhdGFbJ3NlcnZpY2UnXSApID8gJGRhdGFbJ3NlcnZpY2UnXSA6ICcnLAogICAgICAgICAgICAgICAgJ21lc3NhZ2UnICAgID0+ICRkYXRhWydtZXNzYWdlJ10sCiAgICAgICAgICAgICAgICAnc3RhdHVzJyAgICAgPT4gJ25ldycsCiAgICAgICAgICAgICAgICAnc291cmNlJyAgICAgPT4gaXNzZXQoICRkYXRhWydzb3VyY2UnXSApID8gJGRhdGFbJ3NvdXJjZSddIDogJycsCiAgICAgICAgICAgICAgICAnY3JlYXRlZF9hdCcgPT4gY3VycmVudF90aW1lKCAnbXlzcWwnICksCiAgICAgICAgICAgICksCiAgICAgICAgICAgIGFycmF5KCAnJXMnLCAnJXMnLCAnJXMnLCAnJXMnLCAnJXMnLCAnJXMnLCAnJXMnLCAnJXMnICkKICAgICAgICApOwogICAgICAgIHJldHVybiAkaW5zZXJ0ZWQgPyAoaW50KSAkd3BkYi0+aW5zZXJ0X2lkIDogMDsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGdldCggJGlkICkgewogICAgICAgIGdsb2JhbCAkd3BkYjsKICAgICAgICByZXR1cm4gJHdwZGItPmdldF9yb3coCiAgICAgICAgICAgICR3cGRiLT5wcmVwYXJlKCAnU0VMRUNUICogRlJPTSAnIC4gc2VsZjo6dGFibGUoKSAuICcgV0hFUkUgaWQgPSAlZCcsIChpbnQpICRpZCApCiAgICAgICAgKTsKICAgIH0KCiAgICAvKioKICAgICAqIFBhZ2luYXRlZCBsaXN0LCBvcHRpb25hbGx5IGZpbHRlcmVkIGJ5IHN0YXR1cywgbmV3ZXN0IGZpcnN0LgogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGxpc3QoICRzdGF0dXMgPSAnJywgJHBhZ2UgPSAxLCAkcGVyX3BhZ2UgPSAyMCApIHsKICAgICAgICBnbG9iYWwgJHdwZGI7CiAgICAgICAgJHBhZ2UgICAgID0gbWF4KCAxLCAoaW50KSAkcGFnZSApOwogICAgICAgICRwZXJfcGFnZSA9IG1pbiggMTAwLCBtYXgoIDEsIChpbnQpICRwZXJfcGFnZSApICk7CiAgICAgICAgJG9mZnNldCAgID0gKCAkcGFnZSAtIDEgKSAqICRwZXJfcGFnZTsKICAgICAgICBpZiAoICRzdGF0dXMgJiYgaW5fYXJyYXkoICRzdGF0dXMsIHNlbGY6OmFsbG93ZWRfc3RhdHVzZXMoKSwgdHJ1ZSApICkgewogICAgICAgICAgICAkcm93cyA9ICR3cGRiLT5nZXRfcmVzdWx0cygKICAgICAgICAgICAgICAgICR3cGRiLT5wcmVwYXJlKAogICAgICAgICAgICAgICAgICAgICdTRUxFQ1QgKiBGUk9NICcgLiBzZWxmOjp0YWJsZSgpIC4gJyBXSEVSRSBzdGF0dXMgPSAlcyBPUkRFUiBCWSBjcmVhdGVkX2F0IERFU0MgTElNSVQgJWQgT0ZGU0VUICVkJywKICAgICAgICAgICAgICAgICAgICAkc3RhdHVzLCAkcGVyX3BhZ2UsICRvZmZzZXQKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKTsKICAgICAgICAgICAgJHRvdGFsID0gKGludCkgJHdwZGItPmdldF92YXIoCiAgICAgICAgICAgICAgICAkd3BkYi0+cHJlcGFyZSggJ1NFTEVDVCBDT1VOVCgqKSBGUk9NICcgLiBzZWxmOjp0YWJsZSgpIC4gJyBXSEVSRSBzdGF0dXMgPSAlcycsICRzdGF0dXMgKQogICAgICAgICAgICApOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICRyb3dzID0gJHdwZGItPmdldF9yZXN1bHRzKAogICAgICAgICAgICAgICAgJHdwZGItPnByZXBhcmUoCiAgICAgICAgICAgICAgICAgICAgJ1NFTEVDVCAqIEZST00gJyAuIHNlbGY6OnRhYmxlKCkgLiAnIE9SREVSIEJZIGNyZWF0ZWRfYXQgREVTQyBMSU1JVCAlZCBPRkZTRVQgJWQnLAogICAgICAgICAgICAgICAgICAgICRwZXJfcGFnZSwgJG9mZnNldAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApOwogICAgICAgICAgICAkdG90YWwgPSAoaW50KSAkd3BkYi0+Z2V0X3ZhciggJ1NFTEVDVCBDT1VOVCgqKSBGUk9NICcgLiBzZWxmOjp0YWJsZSgpICk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBhcnJheSggJ3Jvd3MnID0+ICRyb3dzLCAndG90YWwnID0+ICR0b3RhbCwgJ3BhZ2UnID0+ICRwYWdlLCAncGVyX3BhZ2UnID0+ICRwZXJfcGFnZSApOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gY291bnRfYnlfc3RhdHVzKCkgewogICAgICAgIGdsb2JhbCAkd3BkYjsKICAgICAgICAkY291bnRzID0gYXJyYXlfZmlsbF9rZXlzKCBzZWxmOjphbGxvd2VkX3N0YXR1c2VzKCksIDAgKTsKICAgICAgICAkcm93cyAgID0gJHdwZGItPmdldF9yZXN1bHRzKAogICAgICAgICAgICAnU0VMRUNUIHN0YXR1cywgQ09VTlQoKikgQVMgYyBGUk9NICcgLiBzZWxmOjp0YWJsZSgpIC4gJyBHUk9VUCBCWSBzdGF0dXMnCiAgICAgICAgKTsKICAgICAgICBmb3JlYWNoICggJHJvd3MgYXMgJHJvdyApIHsKICAgICAgICAgICAgaWYgKCBpc3NldCggJGNvdW50c1sgJHJvdy0+c3RhdHVzIF0gKSApIHsKICAgICAgICAgICAgICAgICRjb3VudHNbICRyb3ctPnN0YXR1cyBdID0gKGludCkgJHJvdy0+YzsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICAkY291bnRzWydhbGwnXSA9IGFycmF5X3N1bSggJGNvdW50cyApOwogICAgICAgIHJldHVybiAkY291bnRzOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gdXBkYXRlX3N0YXR1cyggJGlkLCAkc3RhdHVzICkgewogICAgICAgIGdsb2JhbCAkd3BkYjsKICAgICAgICBpZiAoICEgaW5fYXJyYXkoICRzdGF0dXMsIHNlbGY6OmFsbG93ZWRfc3RhdHVzZXMoKSwgdHJ1ZSApICkgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIHJldHVybiBmYWxzZSAhPT0gJHdwZGItPnVwZGF0ZSgKICAgICAgICAgICAgc2VsZjo6dGFibGUoKSwKICAgICAgICAgICAgYXJyYXkoICdzdGF0dXMnID0+ICRzdGF0dXMgKSwKICAgICAgICAgICAgYXJyYXkoICdpZCcgPT4gKGludCkgJGlkICksCiAgICAgICAgICAgIGFycmF5KCAnJXMnICksCiAgICAgICAgICAgIGFycmF5KCAnJWQnICkKICAgICAgICApOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZGVsZXRlKCAkaWQgKSB7CiAgICAgICAgZ2xvYmFsICR3cGRiOwogICAgICAgIHJldHVybiBmYWxzZSAhPT0gJHdwZGItPmRlbGV0ZSggc2VsZjo6dGFibGUoKSwgYXJyYXkoICdpZCcgPT4gKGludCkgJGlkICksIGFycmF5KCAnJWQnICkgKTsKICAgIH0KCiAgICAvKioKICAgICAqIFN0cmVhbSBhbGwgbGVhZHMgYXMgQ1NWLiBDYWxsZWQgZnJvbSB0aGUgYWRtaW4gZXhwb3J0IGFjdGlvbiwgYWZ0ZXIgYQogICAgICogY2FwYWJpbGl0eSArIG5vbmNlIGNoZWNrIGluIHRoZSBhZG1pbiBjbGFzcyDigJQgbmV2ZXIgZGlyZWN0bHkuCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZXhwb3J0X2NzdigpIHsKICAgICAgICBnbG9iYWwgJHdwZGI7CiAgICAgICAgJHJvd3MgPSAkd3BkYi0+Z2V0X3Jlc3VsdHMoICdTRUxFQ1QgKiBGUk9NICcgLiBzZWxmOjp0YWJsZSgpIC4gJyBPUkRFUiBCWSBjcmVhdGVkX2F0IERFU0MnLCBBUlJBWV9BICk7CiAgICAgICAgJG91dCAgPSBmb3BlbiggJ3BocDovL291dHB1dCcsICd3JyApOwogICAgICAgIGZwdXRjc3YoICRvdXQsIGFycmF5KCAnSUQnLCAnTmFtZScsICdFbWFpbCcsICdQaG9uZScsICdTZXJ2aWNlJywgJ01lc3NhZ2UnLCAnU3RhdHVzJywgJ1NvdXJjZScsICdDcmVhdGVkJyApICk7CiAgICAgICAgZm9yZWFjaCAoICRyb3dzIGFzICRyb3cgKSB7CiAgICAgICAgICAgIGZwdXRjc3YoICRvdXQsICRyb3cgKTsKICAgICAgICB9CiAgICAgICAgZmNsb3NlKCAkb3V0ICk7CiAgICB9Cn0K
+<?php
+/**
+ * Lead storage: a dedicated custom table, accessed only through $wpdb
+ * prepared statements. No raw user input ever reaches a query.
+ */
+if ( ! defined( 'ABSPATH' ) ) {
+    exit;
+}
+
+class NZLC_Storage {
+
+    public static function init() {
+        // Storage is used on demand; no hooks are required to boot it.
+    }
+
+    private static function table() {
+        global $wpdb;
+        return $wpdb->prefix . NZLC_TABLE;
+    }
+
+    public static function allowed_statuses() {
+        return array( 'new', 'contacted', 'won', 'lost' );
+    }
+
+    public static function allowed_services() {
+        return array(
+            'web-development' => __( 'Web Development', 'nz-lead-capture' ),
+            'wordpress'       => __( 'WordPress Development', 'nz-lead-capture' ),
+            'ai-automation'   => __( 'AI Automation', 'nz-lead-capture' ),
+            'ai-seo'          => __( 'AI SEO', 'nz-lead-capture' ),
+            'lead-generation' => __( 'Lead Generation', 'nz-lead-capture' ),
+            'other'           => __( 'Something else', 'nz-lead-capture' ),
+        );
+    }
+
+    /**
+     * Insert a validated lead. Returns the new row ID, or 0 on failure.
+     *
+     * @param array $data Sanitized lead fields.
+     */
+    public static function insert( array $data ) {
+        global $wpdb;
+        $inserted = $wpdb->insert(
+            self::table(),
+            array(
+                'name'       => $data['name'],
+                'email'      => $data['email'],
+                'phone'      => isset( $data['phone'] ) ? $data['phone'] : '',
+                'service'    => isset( $data['service'] ) ? $data['service'] : '',
+                'message'    => $data['message'],
+                'status'     => 'new',
+                'source'     => isset( $data['source'] ) ? $data['source'] : '',
+                'created_at' => current_time( 'mysql' ),
+            ),
+            array( '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s' )
+        );
+        return $inserted ? (int) $wpdb->insert_id : 0;
+    }
+
+    public static function get( $id ) {
+        global $wpdb;
+        return $wpdb->get_row(
+            $wpdb->prepare( 'SELECT * FROM ' . self::table() . ' WHERE id = %d', (int) $id )
+        );
+    }
+
+    /**
+     * Paginated list, optionally filtered by status, newest first.
+     */
+    public static function list( $status = '', $page = 1, $per_page = 20 ) {
+        global $wpdb;
+        $page     = max( 1, (int) $page );
+        $per_page = min( 100, max( 1, (int) $per_page ) );
+        $offset   = ( $page - 1 ) * $per_page;
+        if ( $status && in_array( $status, self::allowed_statuses(), true ) ) {
+            $rows = $wpdb->get_results(
+                $wpdb->prepare(
+                    'SELECT * FROM ' . self::table() . ' WHERE status = %s ORDER BY created_at DESC LIMIT %d OFFSET %d',
+                    $status, $per_page, $offset
+                )
+            );
+            $total = (int) $wpdb->get_var(
+                $wpdb->prepare( 'SELECT COUNT(*) FROM ' . self::table() . ' WHERE status = %s', $status )
+            );
+        } else {
+            $rows = $wpdb->get_results(
+                $wpdb->prepare(
+                    'SELECT * FROM ' . self::table() . ' ORDER BY created_at DESC LIMIT %d OFFSET %d',
+                    $per_page, $offset
+                )
+            );
+            $total = (int) $wpdb->get_var( 'SELECT COUNT(*) FROM ' . self::table() );
+        }
+        return array( 'rows' => $rows, 'total' => $total, 'page' => $page, 'per_page' => $per_page );
+    }
+
+    public static function count_by_status() {
+        global $wpdb;
+        $counts = array_fill_keys( self::allowed_statuses(), 0 );
+        $rows   = $wpdb->get_results(
+            'SELECT status, COUNT(*) AS c FROM ' . self::table() . ' GROUP BY status'
+        );
+        foreach ( $rows as $row ) {
+            if ( isset( $counts[ $row->status ] ) ) {
+                $counts[ $row->status ] = (int) $row->c;
+            }
+        }
+        $counts['all'] = array_sum( $counts );
+        return $counts;
+    }
+
+    public static function update_status( $id, $status ) {
+        global $wpdb;
+        if ( ! in_array( $status, self::allowed_statuses(), true ) ) {
+            return false;
+        }
+        return false !== $wpdb->update(
+            self::table(),
+            array( 'status' => $status ),
+            array( 'id' => (int) $id ),
+            array( '%s' ),
+            array( '%d' )
+        );
+    }
+
+    public static function delete( $id ) {
+        global $wpdb;
+        return false !== $wpdb->delete( self::table(), array( 'id' => (int) $id ), array( '%d' ) );
+    }
+
+    /**
+     * Stream all leads as CSV. Called from the admin export action, after a
+     * capability + nonce check in the admin class — never directly.
+     */
+    public static function export_csv() {
+        global $wpdb;
+        $rows = $wpdb->get_results( 'SELECT * FROM ' . self::table() . ' ORDER BY created_at DESC', ARRAY_A );
+        $out  = fopen( 'php://output', 'w' );
+        fputcsv( $out, array( 'ID', 'Name', 'Email', 'Phone', 'Service', 'Message', 'Status', 'Source', 'Created' ) );
+        foreach ( $rows as $row ) {
+            fputcsv( $out, $row );
+        }
+        fclose( $out );
+    }
+}
