@@ -1,1 +1,62 @@
-IyBOWiBMZWFkIENhcHR1cmUgKyBTRU8KCkEgV29yZFByZXNzIHBsdWdpbiBkZW1vIGJ5ICoqTmFzaXIgTmFzZWVyKiog4oCUIGxlYWQtY2FwdHVyZSBmb3JtLCBhZG1pbiBsZWFkIGluYm94LCBhbmQgbGlnaHR3ZWlnaHQgb24tcGFnZSBTRU8uIEJ1aWx0IGFzIGEgcG9ydGZvbGlvIHBpZWNlIHNob3dpbmcgcmVhbCwgcHJvZHVjdGlvbi1zdHlsZSBXb3JkUHJlc3MgcGx1Z2luIGNvZGU6IGN1c3RvbSBkYXRhYmFzZSB0YWJsZSwgc2hvcnRjb2RlICsgQUpBWCwgYWRtaW4gbGlzdC9zdGF0dXMgd29ya2Zsb3csIENTViBleHBvcnQsIFJFU1QgQVBJLCBub25jZXMsIGNhcGFiaWxpdGllcyBhbmQgcHJlcGFyZWQgc3RhdGVtZW50cyB0aHJvdWdob3V0LgoKPiAqKkxpbmUgY291bnQ6KiogOTAwKyBsaW5lcyBvZiBQSFAvSlMvQ1NTIChtYWluIHBsdWdpbiBmaWxlICsgNSBjbGFzc2VzICsgYXNzZXRzKS4gVGhhdCBjbGVhcnMgdGhlIDMwMCsgbGluZSBwbHVnaW4tY29kZSBnYXRlIHVzZWQgYnkgZW1wbG95ZXJzIHN1Y2ggYXMgQ3Jvd2QgRmF2b3JpdGUsIHdoaWNoIHJlcXVpcmVzIGEgR2l0SHViIGxpbmsgc2hvd2luZyBhIFdvcmRQcmVzcyBwbHVnaW4gb3Igc2lnbmlmaWNhbnQgZmVhdHVyZS4KCiMjIFdoYXQgaXQgZG9lcwoKLSAqKkxlYWQgZm9ybSDigJQgYFtuel9sZWFkX2Zvcm1dYCoqCiAgLSBGaWVsZHM6IG5hbWUsIGVtYWlsLCBwaG9uZS9XaGF0c0FwcCwgc2VydmljZSwgcHJvamVjdCBtZXNzYWdlCiAgLSBBSkFYIHN1Ym1pdCB3aXRoIGEgcGxhaW4tUE9TVCBmYWxsYmFjayBpZiBKYXZhU2NyaXB0IGlzIG9mZgogIC0gTm9uY2UgKyBob25leXBvdCBzcGFtIHByb3RlY3Rpb24sIHNlcnZlci1zaWRlIHZhbGlkYXRpb24gb24gZXZlcnkgcGF0aAogIC0gQ3VzdG9tIHRpdGxlL2J1dHRvbiB2aWEgc2hvcnRjb2RlIGF0dHJpYnV0ZXM6IGBbbnpfbGVhZF9mb3JtIHRpdGxlPSJCb29rIGEgZnJlZSBjYWxsIiBidXR0b249IkJvb2sgbm93Il1gCi0gKipBZG1pbiBsZWFkIGluYm94IOKAlCBXb3JkUHJlc3Mg4oaSIExlYWRzKioKICAtIFN0YXR1cyB3b3JrZmxvdzogTmV3IOKGkiBDb250YWN0ZWQg4oaSIFdvbiAvIExvc3QsIHdpdGggY291bnRzIHBlciBzdGF0dXMKICAtIERlbGV0ZSB3aXRoIGNvbmZpcm1hdGlvbiwgcGFnaW5hdGVkIGxpc3QsIENTViBleHBvcnQKICAtIE5vdGlmaWNhdGlvbiBlbWFpbCB0byB0aGUgc2l0ZSBvd25lciBvbiBldmVyeSBuZXcgbGVhZAotICoqU2V0dGluZ3Mg4oCUIExlYWRzIOKGkiBTZXR0aW5ncyoqCiAgLSBOb3RpZmljYXRpb24gZW1haWwsIHN1Y2Nlc3MgbWVzc2FnZSwgYnVzaW5lc3MgbmFtZSBmb3Igc2NoZW1hLCBTRU8gb24vb2ZmCi0gKipMaWdodHdlaWdodCBTRU8qKgogIC0gTWV0YSBkZXNjcmlwdGlvbiAoZXhjZXJwdCDihpIgdGFnbGluZSwgY2FwcGVkIGF0IDE2MCBjaGFycyksIE9wZW4gR3JhcGggdGFncwogIC0gTG9jYWxCdXNpbmVzcyBKU09OLUxEIG9uIHRoZSBmcm9udCBwYWdlCiAgLSBTdGF5cyBxdWlldCB3aGVuIFlvYXN0LCBSYW5rIE1hdGggb3IgQWxsIGluIE9uZSBTRU8gaXMgYWN0aXZlIOKAlCBpdCBvbmx5IGZpbGxzIGdhcHMsIG5ldmVyIG92ZXJ3cml0ZXMgYW4gU0VPIHBsdWdpbgotICoqUkVTVCBBUEkg4oCUIGB3cC1qc29uL256bGMvdjEvbGVhZHNgKioKICAtIGBHRVRgIOKAlCBhZG1pbiBvbmx5IChgbWFuYWdlX29wdGlvbnNgKSwgZmlsdGVyIGJ5IHN0YXR1cywgcGFnaW5hdGVkCiAgLSBgUE9TVGAg4oCUIHB1YmxpYywgbm9uY2UtY2hlY2tlZCwgc2FtZSB2YWxpZGF0aW9uIGFzIHRoZSBmb3JtCgojIyBJbnN0YWxsCgoxLiBDb3B5IHRoZSBgbnotbGVhZC1jYXB0dXJlYCBmb2xkZXIgaW50byBgd3AtY29udGVudC9wbHVnaW5zL2AKMi4gV29yZFByZXNzIGFkbWluIOKGkiBQbHVnaW5zIOKGkiBhY3RpdmF0ZSAqKk5aIExlYWQgQ2FwdHVyZSArIFNFTyoqCjMuIEFkZCBgW256X2xlYWRfZm9ybV1gIHRvIGFueSBwYWdlCjQuIFNlZSBzdWJtaXNzaW9ucyBpbiBXb3JkUHJlc3Mg4oaSICoqTGVhZHMqKgoKUmVxdWlyZXMgV29yZFByZXNzIDYuMCsgYW5kIFBIUCA4LjArLgoKIyMgRmlsZXMKCnwgRmlsZSB8IFdoYXQgaXQgZG9lcyB8CnwgLS0tIHwgLS0tIHwKfCBgbnotbGVhZC1jYXB0dXJlLnBocGAgfCBQbHVnaW4gaGVhZGVyLCBhY3RpdmF0aW9uIChjcmVhdGVzIHRoZSBsZWFkcyB0YWJsZSksIGJvb3QsIGFzc2V0IGxvYWRpbmcgfAp8IGBpbmNsdWRlcy9jbGFzcy1uemxjLXN0b3JhZ2UucGhwYCB8IEN1c3RvbSB0YWJsZSBhY2Nlc3Mg4oCUIGluc2VydCwgbGlzdCwgY291bnRzLCBzdGF0dXMsIGRlbGV0ZSwgQ1NWIHwKfCBgaW5jbHVkZXMvY2xhc3MtbnpsYy1mb3JtLnBocGAgfCBTaG9ydGNvZGUsIHZhbGlkYXRpb24sIEFKQVggKyBwbGFpbi1QT1NUIGhhbmRsaW5nLCBvd25lciBub3RpZmljYXRpb24gfAp8IGBpbmNsdWRlcy9jbGFzcy1uemxjLWFkbWluLnBocGAgfCBBZG1pbiBtZW51LCBsZWFkIGxpc3QsIHN0YXR1cy9kZWxldGUvZXhwb3J0IGFjdGlvbnMsIHNldHRpbmdzIHwKfCBgaW5jbHVkZXMvY2xhc3MtbnpsYy1zZW8ucGhwYCB8IE1ldGEgZGVzY3JpcHRpb24sIE9wZW4gR3JhcGgsIExvY2FsQnVzaW5lc3Mgc2NoZW1hIHwKfCBgaW5jbHVkZXMvY2xhc3MtbnpsYy1yZXN0LnBocGAgfCBSRVNUIHJvdXRlcyBmb3IgcmVhZGluZyBhbmQgc3VibWl0dGluZyBsZWFkcyB8CnwgYGFzc2V0cy9jc3MvZnJvbnRlbmQuY3NzYCAvIGBhc3NldHMvanMvZnJvbnRlbmQuanNgIHwgRm9ybSBzdHlsaW5nIGFuZCBBSkFYIHN1Ym1pc3Npb24gfAp8IGB1bmluc3RhbGwucGhwYCB8IERyb3BzIHRoZSBsZWFkcyB0YWJsZSBhbmQgcmVtb3ZlcyBvcHRpb25zIG9uIHBsdWdpbiBkZWxldGlvbiB8CgojIyBWZXJpZnkgbG9jYWxseQoKYGBgYmFzaApwaHAgLWwgbnotbGVhZC1jYXB0dXJlLnBocApwaHAgLWwgaW5jbHVkZXMvY2xhc3MtbnpsYy0qLnBocApwaHAgdGVzdHMvdGVzdC1wbHVnaW4ucGhwICAgIyBXb3JkUHJlc3MtZnVuY3Rpb24gc3R1YnM6IHNob3J0Y29kZSwgdmFsaWRhdGlvbiwgc3RvcmFnZSBTUUwKYGBgCgojIyBOb3RlcwoKLSBMZWFkcyBhcmUgc3RvcmVkIGluIGEgZGVkaWNhdGVkIHRhYmxlIChge3ByZWZpeH1uemxjX2xlYWRzYCksIG5ldmVyIGFzIHBvc3RzIOKAlCBzbyB0aGUgaW5ib3ggc3RheXMgZmFzdCBhbmQgZXhwb3J0YWJsZS4KLSBEZWFjdGl2YXRpb24ga2VlcHMgbGVhZCBkYXRhOyBkZWxldGlvbiAodW5pbnN0YWxsKSByZW1vdmVzIHRoZSB0YWJsZSBhbmQgb3B0aW9ucy4KLSBEZW1vIG9ubHkgaW4gdGhlIHNlbnNlIHRoYXQgaXQgc2hpcHMgd2l0aCBubyByZWFsIGNsaWVudCBkYXRhIOKAlCB0aGUgY29kZSBpdHNlbGYgaXMgcHJvZHVjdGlvbi1zdHlsZSBhbmQgaW5zdGFsbGFibGUgb24gYW55IFdvcmRQcmVzcyBzaXRlLgo=
+# NZ Lead Capture + SEO
+
+A WordPress plugin demo by **Nasir Naseer** — lead-capture form, admin lead inbox, and lightweight on-page SEO. Built as a portfolio piece showing real, production-style WordPress plugin code: custom database table, shortcode + AJAX, admin list/status workflow, CSV export, REST API, nonces, capabilities and prepared statements throughout.
+
+> **Line count:** 900+ lines of PHP/JS/CSS (main plugin file + 5 classes + assets). That clears the 300+ line plugin-code gate used by employers such as Crowd Favorite, which requires a GitHub link showing a WordPress plugin or significant feature.
+
+## What it does
+
+- **Lead form — `[nz_lead_form]`**
+  - Fields: name, email, phone/WhatsApp, service, project message
+  - AJAX submit with a plain-POST fallback if JavaScript is off
+  - Nonce + honeypot spam protection, server-side validation on every path
+  - Custom title/button via shortcode attributes: `[nz_lead_form title="Book a free call" button="Book now"]`
+- **Admin lead inbox — WordPress → Leads**
+  - Status workflow: New → Contacted → Won / Lost, with counts per status
+  - Delete with confirmation, paginated list, CSV export
+  - Notification email to the site owner on every new lead
+- **Settings — Leads → Settings**
+  - Notification email, success message, business name for schema, SEO on/off
+- **Lightweight SEO**
+  - Meta description (excerpt → tagline, capped at 160 chars), Open Graph tags
+  - LocalBusiness JSON-LD on the front page
+  - Stays quiet when Yoast, Rank Math or All in One SEO is active — it only fills gaps, never overwrites an SEO plugin
+- **REST API — `wp-json/nzlc/v1/leads`**
+  - `GET` — admin only (`manage_options`), filter by status, paginated
+  - `POST` — public, nonce-checked, same validation as the form
+
+## Install
+
+1. Copy the `nz-lead-capture` folder into `wp-content/plugins/`
+2. WordPress admin → Plugins → activate **NZ Lead Capture + SEO**
+3. Add `[nz_lead_form]` to any page
+4. See submissions in WordPress → **Leads**
+
+Requires WordPress 6.0+ and PHP 8.0+.
+
+## Files
+
+| File | What it does |
+| --- | --- |
+| `nz-lead-capture.php` | Plugin header, activation (creates the leads table), boot, asset loading |
+| `includes/class-nzlc-storage.php` | Custom table access — insert, list, counts, status, delete, CSV |
+| `includes/class-nzlc-form.php` | Shortcode, validation, AJAX + plain-POST handling, owner notification |
+| `includes/class-nzlc-admin.php` | Admin menu, lead list, status/delete/export actions, settings |
+| `includes/class-nzlc-seo.php` | Meta description, Open Graph, LocalBusiness schema |
+| `includes/class-nzlc-rest.php` | REST routes for reading and submitting leads |
+| `assets/css/frontend.css` / `assets/js/frontend.js` | Form styling and AJAX submission |
+| `uninstall.php` | Drops the leads table and removes options on plugin deletion |
+
+## Verify locally
+
+```bash
+php -l nz-lead-capture.php
+php -l includes/class-nzlc-*.php
+php tests/test-plugin.php   # WordPress-function stubs: shortcode, validation, storage SQL
+```
+
+## Notes
+
+- Leads are stored in a dedicated table (`{prefix}nzlc_leads`), never as posts — so the inbox stays fast and exportable.
+- Deactivation keeps lead data; deletion (uninstall) removes the table and options.
+- Demo only in the sense that it ships with no real client data — the code itself is production-style and installable on any WordPress site.
