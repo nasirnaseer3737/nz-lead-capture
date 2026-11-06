@@ -1,1 +1,163 @@
-PD9waHAKLyoqCiAqIFB1YmxpYyBsZWFkIGZvcm06IHNob3J0Y29kZSBbbnpfbGVhZF9mb3JtXSwgQUpBWCArIHBsYWluLVBPU1Qgc3VibWlzc2lvbiwKICogbm9uY2UgKyBob25leXBvdCBzcGFtIHByb3RlY3Rpb24sIHNlcnZlci1zaWRlIHZhbGlkYXRpb24uCiAqLwppZiAoICEgZGVmaW5lZCggJ0FCU1BBVEgnICkgKSB7CiAgICBleGl0Owp9CgpjbGFzcyBOWkxDX0Zvcm0gewoKICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gaW5pdCgpIHsKICAgICAgICBhZGRfc2hvcnRjb2RlKCAnbnpfbGVhZF9mb3JtJywgYXJyYXkoIF9fQ0xBU1NfXywgJ3JlbmRlcl9zaG9ydGNvZGUnICkgKTsKICAgICAgICBhZGRfYWN0aW9uKCAnd3BfYWpheF9uemxjX3N1Ym1pdCcsIGFycmF5KCBfX0NMQVNTX18sICdhamF4X3N1Ym1pdCcgKSApOwogICAgICAgIGFkZF9hY3Rpb24oICd3cF9hamF4X25vcHJpdl9uemxjX3N1Ym1pdCcsIGFycmF5KCBfX0NMQVNTX18sICdhamF4X3N1Ym1pdCcgKSApOwogICAgICAgIGFkZF9hY3Rpb24oICdpbml0JywgYXJyYXkoIF9fQ0xBU1NfXywgJ2hhbmRsZV9wbGFpbl9wb3N0JyApICk7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiByZW5kZXJfc2hvcnRjb2RlKCAkYXR0cyApIHsKICAgICAgICAkYXR0cyA9IHNob3J0Y29kZV9hdHRzKAogICAgICAgICAgICBhcnJheSgKICAgICAgICAgICAgICAgICd0aXRsZScgID0+IF9fKCAnR2V0IGEgZnJlZSBxdW90ZScsICduei1sZWFkLWNhcHR1cmUnICksCiAgICAgICAgICAgICAgICAnYnV0dG9uJyA9PiBfXyggJ1NlbmQgbXkgcmVxdWVzdCcsICduei1sZWFkLWNhcHR1cmUnICksCiAgICAgICAgICAgICksCiAgICAgICAgICAgICRhdHRzLAogICAgICAgICAgICAnbnpfbGVhZF9mb3JtJwogICAgICAgICk7CiAgICAgICAgJHNlcnZpY2VzID0gTlpMQ19TdG9yYWdlOjphbGxvd2VkX3NlcnZpY2VzKCk7CiAgICAgICAgb2Jfc3RhcnQoKTsKICAgICAgICA/PgogICAgICAgIDxmb3JtIGNsYXNzPSJuemxjLWZvcm0iIG1ldGhvZD0icG9zdCIgYWN0aW9uPSI8P3BocCBlY2hvIGVzY191cmwoIGdldF9wZXJtYWxpbmsoKSApOyA/PiIgbm92YWxpZGF0ZT4KICAgICAgICAgICAgPGgzIGNsYXNzPSJuemxjLWZvcm0tdGl0bGUiPjw/cGhwIGVjaG8gZXNjX2h0bWwoICRhdHRzWyd0aXRsZSddICk7ID8+PC9oMz4KICAgICAgICAgICAgPGRpdiBjbGFzcz0ibnpsYy1ub3RpY2UiIGhpZGRlbj48L2Rpdj4KICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJuemxjLW5hbWUiPjw/cGhwIGVzY19odG1sX2UoICdZb3VyIG5hbWUgKicsICduei1sZWFkLWNhcHR1cmUnICk7ID8+PC9sYWJlbD4KICAgICAgICAgICAgICAgIDxpbnB1dCBpZD0ibnpsYy1uYW1lIiBuYW1lPSJuemxjX25hbWUiIHR5cGU9InRleHQiIHJlcXVpcmVkIG1heGxlbmd0aD0iMTIwIiBhdXRvY29tcGxldGU9Im5hbWUiIC8+CiAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJuemxjLWVtYWlsIj48P3BocCBlc2NfaHRtbF9lKCAnRW1haWwgKicsICduei1sZWFkLWNhcHR1cmUnICk7ID8+PC9sYWJlbD4KICAgICAgICAgICAgICAgIDxpbnB1dCBpZD0ibnpsYy1lbWFpbCIgbmFtZT0ibnpsY19lbWFpbCIgdHlwZT0iZW1haWwiIHJlcXVpcmVkIG1heGxlbmd0aD0iMTIwIiBhdXRvY29tcGxldGU9ImVtYWlsIiAvPgogICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0ibnpsYy1waG9uZSI+PD9waHAgZXNjX2h0bWxfZSggJ1Bob25lIC8gV2hhdHNBcHAnLCAnbnotbGVhZC1jYXB0dXJlJyApOyA/PjwvbGFiZWw+CiAgICAgICAgICAgICAgICA8aW5wdXQgaWQ9Im56bGMtcGhvbmUiIG5hbWU9Im56bGNfcGhvbmUiIHR5cGU9InRlbCIgbWF4bGVuZ3RoPSI0MCIgYXV0b2NvbXBsZXRlPSJ0ZWwiIC8+CiAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJuemxjLXNlcnZpY2UiPjw/cGhwIGVzY19odG1sX2UoICdXaGF0IGRvIHlvdSBuZWVkPycsICduei1sZWFkLWNhcHR1cmUnICk7ID8+PC9sYWJlbD4KICAgICAgICAgICAgICAgIDxzZWxlY3QgaWQ9Im56bGMtc2VydmljZSIgbmFtZT0ibnpsY19zZXJ2aWNlIj4KICAgICAgICAgICAgICAgICAgICA8P3BocCBmb3JlYWNoICggJHNlcnZpY2VzIGFzICRrZXkgPT4gJGxhYmVsICkgOiA/PgogICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSI8P3BocCBlY2hvIGVzY19hdHRyKCAka2V5ICk7ID8+Ij48P3BocCBlY2hvIGVzY19odG1sKCAkbGFiZWwgKTsgPz48L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICA8P3BocCBlbmRmb3JlYWNoOyA/PgogICAgICAgICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJuemxjLW1lc3NhZ2UiPjw/cGhwIGVzY19odG1sX2UoICdUZWxsIHVzIGFib3V0IHlvdXIgcHJvamVjdCAqJywgJ256LWxlYWQtY2FwdHVyZScgKTsgPz48L2xhYmVsPgogICAgICAgICAgICAgICAgPHRleHRhcmVhIGlkPSJuemxjLW1lc3NhZ2UiIG5hbWU9Im56bGNfbWVzc2FnZSIgcm93cz0iNCIgcmVxdWlyZWQgbWF4bGVuZ3RoPSIyMDAwIj48L3RleHRhcmVhPgogICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDw/cGhwIC8vIEhvbmV5cG90OiBoaWRkZW4gZnJvbSBodW1hbnMsIGZpbGxlZCBieSBuYWl2ZSBib3RzLiA/PgogICAgICAgICAgICA8cCBjbGFzcz0ibnpsYy1ob25leXBvdCIgYXJpYS1oaWRkZW49InRydWUiPgogICAgICAgICAgICAgICAgPGxhYmVsPkxlYXZlIHRoaXMgZmllbGQgZW1wdHk8aW5wdXQgbmFtZT0ibnpsY19jb21wYW55IiB0eXBlPSJ0ZXh0IiB0YWJpbmRleD0iLTEiIGF1dG9jb21wbGV0ZT0ib2ZmIiAvPjwvbGFiZWw+CiAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPD9waHAgd3Bfbm9uY2VfZmllbGQoICduemxjX3N1Ym1pdCcsICduemxjX25vbmNlJyApOyA/PgogICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJuemxjX3N1Ym1pdHRlZCIgdmFsdWU9IjEiIC8+CiAgICAgICAgICAgIDxwPjxidXR0b24gY2xhc3M9Im56bGMtc3VibWl0IiB0eXBlPSJzdWJtaXQiPjw/cGhwIGVjaG8gZXNjX2h0bWwoICRhdHRzWydidXR0b24nXSApOyA/PjwvYnV0dG9uPjwvcD4KICAgICAgICA8L2Zvcm0+CiAgICAgICAgPD9waHAKICAgICAgICByZXR1cm4gb2JfZ2V0X2NsZWFuKCk7CiAgICB9CgogICAgLyoqCiAgICAgKiBWYWxpZGF0ZSArIHNhbml0aXplIHJhdyBpbnB1dC4gUmV0dXJucyBbICRkYXRhLCAkZXJyb3JzIF0uCiAgICAgKiBTaGFyZWQgYnkgdGhlIEFKQVggYW5kIHBsYWluLVBPU1QgcGF0aHMgc28gYm90aCBiZWhhdmUgaWRlbnRpY2FsbHkuCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gdmFsaWRhdGUoIGFycmF5ICRpbnB1dCApIHsKICAgICAgICAkZXJyb3JzID0gYXJyYXkoKTsKICAgICAgICAkZGF0YSAgID0gYXJyYXkoCiAgICAgICAgICAgICduYW1lJyAgICA9PiBpc3NldCggJGlucHV0WyduemxjX25hbWUnXSApID8gc2FuaXRpemVfdGV4dF9maWVsZCggd3BfdW5zbGFzaCggJGlucHV0WyduemxjX25hbWUnXSApICkgOiAnJywKICAgICAgICAgICAgJ2VtYWlsJyAgID0+IGlzc2V0KCAkaW5wdXRbJ256bGNfZW1haWwnXSApID8gc2FuaXRpemVfZW1haWwoIHdwX3Vuc2xhc2goICRpbnB1dFsnbnpsY19lbWFpbCddICkgKSA6ICcnLAogICAgICAgICAgICAncGhvbmUnICAgPT4gaXNzZXQoICRpbnB1dFsnbnpsY19waG9uZSddICkgPyBzYW5pdGl6ZV90ZXh0X2ZpZWxkKCB3cF91bnNsYXNoKCAkaW5wdXRbJ256bGNfcGhvbmUnXSApICkgOiAnJywKICAgICAgICAgICAgJ3NlcnZpY2UnID0+IGlzc2V0KCAkaW5wdXRbJ256bGNfc2VydmljZSddICkgPyBzYW5pdGl6ZV9rZXkoIHdwX3Vuc2xhc2goICRpbnB1dFsnbnpsY19zZXJ2aWNlJ10gKSApIDogJycsCiAgICAgICAgICAgICdtZXNzYWdlJyA9PiBpc3NldCggJGlucHV0WyduemxjX21lc3NhZ2UnXSApID8gc2FuaXRpemVfdGV4dGFyZWFfZmllbGQoIHdwX3Vuc2xhc2goICRpbnB1dFsnbnpsY19tZXNzYWdlJ10gKSApIDogJycsCiAgICAgICAgICAgICdzb3VyY2UnICA9PiBpc3NldCggJF9TRVJWRVJbJ0hUVFBfUkVGRVJFUiddICkgPyBlc2NfdXJsX3Jhdyggd3BfdW5zbGFzaCggJF9TRVJWRVJbJ0hUVFBfUkVGRVJFUiddICkgKSA6ICcnLAogICAgICAgICk7CiAgICAgICAgaWYgKCBtYl9zdHJsZW4oICRkYXRhWyduYW1lJ10gKSA8IDIgKSB7CiAgICAgICAgICAgICRlcnJvcnNbXSA9IF9fKCAnUGxlYXNlIGVudGVyIHlvdXIgbmFtZS4nLCAnbnotbGVhZC1jYXB0dXJlJyApOwogICAgICAgIH0KICAgICAgICBpZiAoICEgaXNfZW1haWwoICRkYXRhWydlbWFpbCddICkgKSB7CiAgICAgICAgICAgICRlcnJvcnNbXSA9IF9fKCAnUGxlYXNlIGVudGVyIGEgdmFsaWQgZW1haWwgYWRkcmVzcy4nLCAnbnotbGVhZC1jYXB0dXJlJyApOwogICAgICAgIH0KICAgICAgICBpZiAoIG1iX3N0cmxlbiggJGRhdGFbJ21lc3NhZ2UnXSApIDwgMTAgKSB7CiAgICAgICAgICAgICRlcnJvcnNbXSA9IF9fKCAnUGxlYXNlIHRlbGwgdXMgYSBsaXR0bGUgbW9yZSBhYm91dCB5b3VyIHByb2plY3QgKGF0IGxlYXN0IDEwIGNoYXJhY3RlcnMpLicsICduei1sZWFkLWNhcHR1cmUnICk7CiAgICAgICAgfQogICAgICAgIGlmICggJGRhdGFbJ3NlcnZpY2UnXSAmJiAhIGFycmF5X2tleV9leGlzdHMoICRkYXRhWydzZXJ2aWNlJ10sIE5aTENfU3RvcmFnZTo6YWxsb3dlZF9zZXJ2aWNlcygpICkgKSB7CiAgICAgICAgICAgICRlcnJvcnNbXSA9IF9fKCAnUGxlYXNlIGNob29zZSBhIHZhbGlkIHNlcnZpY2UuJywgJ256LWxlYWQtY2FwdHVyZScgKTsKICAgICAgICB9CiAgICAgICAgLy8gSG9uZXlwb3QgbXVzdCBzdGF5IGVtcHR5OyBhIGZpbGxlZCBvbmUgaXMgYSBib3QsIG5vdCBhIHVzZXIgZXJyb3IuCiAgICAgICAgaWYgKCAhIGVtcHR5KCAkaW5wdXRbJ256bGNfY29tcGFueSddICkgKSB7CiAgICAgICAgICAgICRlcnJvcnNbXSA9ICdzcGFtJzsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGFycmF5KCAkZGF0YSwgJGVycm9ycyApOwogICAgfQoKICAgIC8qKgogICAgICogU3RvcmUgYSB2YWxpZGF0ZWQgbGVhZCBhbmQgbm90aWZ5IHRoZSBzaXRlIG93bmVyLiBSZXR1cm5zIHRoZSBsZWFkIElELgogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIHN0b3JlX2FuZF9ub3RpZnkoIGFycmF5ICRkYXRhICkgewogICAgICAgICRsZWFkX2lkID0gTlpMQ19TdG9yYWdlOjppbnNlcnQoICRkYXRhICk7CiAgICAgICAgaWYgKCAhICRsZWFkX2lkICkgewogICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICB9CiAgICAgICAgJG5vdGlmeSA9IGdldF9vcHRpb24oICduemxjX25vdGlmeV9lbWFpbCcsIGdldF9vcHRpb24oICdhZG1pbl9lbWFpbCcgKSApOwogICAgICAgIGlmICggJG5vdGlmeSAmJiBpc19lbWFpbCggJG5vdGlmeSApICkgewogICAgICAgICAgICAkc3ViamVjdCA9IHNwcmludGYoCiAgICAgICAgICAgICAgICAvKiB0cmFuc2xhdG9yczogJXM6IGxlYWQgbmFtZSAqLwogICAgICAgICAgICAgICAgX18oICdOZXcgbGVhZDogJXMnLCAnbnotbGVhZC1jYXB0dXJlJyApLAogICAgICAgICAgICAgICAgJGRhdGFbJ25hbWUnXQogICAgICAgICAgICApOwogICAgICAgICAgICAkYm9keSA9IHNwcmludGYoCiAgICAgICAgICAgICAgICAiTmFtZTogJXNcbkVtYWlsOiAlc1xuUGhvbmU6ICVzXG5TZXJ2aWNlOiAlc1xuXG4lc1xuIiwKICAgICAgICAgICAgICAgICRkYXRhWyduYW1lJ10sICRkYXRhWydlbWFpbCddLCAkZGF0YVsncGhvbmUnXSwgJGRhdGFbJ3NlcnZpY2UnXSwgJGRhdGFbJ21lc3NhZ2UnXQogICAgICAgICAgICApOwogICAgICAgICAgICB3cF9tYWlsKCAkbm90aWZ5LCAkc3ViamVjdCwgJGJvZHkgKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuICRsZWFkX2lkOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gYWpheF9zdWJtaXQoKSB7CiAgICAgICAgY2hlY2tfYWpheF9yZWZlcmVyKCAnbnpsY19zdWJtaXQnLCAnbm9uY2UnICk7CiAgICAgICAgbGlzdCggJGRhdGEsICRlcnJvcnMgKSA9IHNlbGY6OnZhbGlkYXRlKCAkX1BPU1QgKTsKICAgICAgICBpZiAoICRlcnJvcnMgKSB7CiAgICAgICAgICAgIHdwX3NlbmRfanNvbl9lcnJvciggYXJyYXkoICdlcnJvcnMnID0+ICRlcnJvcnMgKSwgNDIyICk7CiAgICAgICAgfQogICAgICAgICRsZWFkX2lkID0gc2VsZjo6c3RvcmVfYW5kX25vdGlmeSggJGRhdGEgKTsKICAgICAgICBpZiAoICEgJGxlYWRfaWQgKSB7CiAgICAgICAgICAgIHdwX3NlbmRfanNvbl9lcnJvciggYXJyYXkoICdlcnJvcnMnID0+IGFycmF5KCBfXyggJ1NvbWV0aGluZyB3ZW50IHdyb25nLiBQbGVhc2UgdHJ5IGFnYWluLicsICduei1sZWFkLWNhcHR1cmUnICkgKSApLCA1MDAgKTsKICAgICAgICB9CiAgICAgICAgd3Bfc2VuZF9qc29uX3N1Y2Nlc3MoIGFycmF5KCAnbGVhZF9pZCcgPT4gJGxlYWRfaWQsICdtZXNzYWdlJyA9PiBnZXRfb3B0aW9uKCAnbnpsY19zdWNjZXNzX21lc3NhZ2UnICkgKSApOwogICAgfQoKICAgIC8qKgogICAgICogTm9uLUpTIGZhbGxiYWNrOiBhIHBsYWluIFBPU1QgdG8gdGhlIHNhbWUgcGFnZSwgdmVyaWZpZWQgYnkgbm9uY2UuCiAgICAgKiBPbiBzdWNjZXNzIHRoZSB2aXNpdG9yIHNlZXMgdGhlIHN1Y2Nlc3MgbWVzc2FnZSBpbnN0ZWFkIG9mIHRoZSBmb3JtLgogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGhhbmRsZV9wbGFpbl9wb3N0KCkgewogICAgICAgIGlmICggZW1wdHkoICRfUE9TVFsnbnpsY19zdWJtaXR0ZWQnXSApIHx8ICEgaXNfc2luZ3VsYXIoKSApIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBpZiAoICEgaXNzZXQoICRfUE9TVFsnbnpsY19ub25jZSddICkgfHwgISB3cF92ZXJpZnlfbm9uY2UoIHNhbml0aXplX2tleSggd3BfdW5zbGFzaCggJF9QT1NUWyduemxjX25vbmNlJ10gKSApLCAnbnpsY19zdWJtaXQnICkgKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgbGlzdCggJGRhdGEsICRlcnJvcnMgKSA9IHNlbGY6OnZhbGlkYXRlKCAkX1BPU1QgKTsKICAgICAgICBpZiAoICRlcnJvcnMgKSB7CiAgICAgICAgICAgIHJldHVybjsgLy8gRm9ybSByZS1yZW5kZXJzOyB0aGUgdXNlciBjYW4gY29ycmVjdCBhbmQgcmVzdWJtaXQuCiAgICAgICAgfQogICAgICAgIHNlbGY6OnN0b3JlX2FuZF9ub3RpZnkoICRkYXRhICk7CiAgICAgICAgYWRkX2ZpbHRlcigKICAgICAgICAgICAgJ3RoZV9jb250ZW50JywKICAgICAgICAgICAgZnVuY3Rpb24gKCAkY29udGVudCApIHsKICAgICAgICAgICAgICAgIHJldHVybiAnPGRpdiBjbGFzcz0ibnpsYy1zdWNjZXNzIiByb2xlPSJzdGF0dXMiPicgLiBlc2NfaHRtbCggZ2V0X29wdGlvbiggJ256bGNfc3VjY2Vzc19tZXNzYWdlJyApICkgLiAnPC9kaXY+JyAuICRjb250ZW50OwogICAgICAgICAgICB9CiAgICAgICAgKTsKICAgIH0KfQo=
+<?php
+/**
+ * Public lead form: shortcode [nz_lead_form], AJAX + plain-POST submission,
+ * nonce + honeypot spam protection, server-side validation.
+ */
+if ( ! defined( 'ABSPATH' ) ) {
+    exit;
+}
+
+class NZLC_Form {
+
+    public static function init() {
+        add_shortcode( 'nz_lead_form', array( __CLASS__, 'render_shortcode' ) );
+        add_action( 'wp_ajax_nzlc_submit', array( __CLASS__, 'ajax_submit' ) );
+        add_action( 'wp_ajax_nopriv_nzlc_submit', array( __CLASS__, 'ajax_submit' ) );
+        add_action( 'init', array( __CLASS__, 'handle_plain_post' ) );
+    }
+
+    public static function render_shortcode( $atts ) {
+        $atts = shortcode_atts(
+            array(
+                'title'  => __( 'Get a free quote', 'nz-lead-capture' ),
+                'button' => __( 'Send my request', 'nz-lead-capture' ),
+            ),
+            $atts,
+            'nz_lead_form'
+        );
+        $services = NZLC_Storage::allowed_services();
+        ob_start();
+        ?>
+        <form class="nzlc-form" method="post" action="<?php echo esc_url( get_permalink() ); ?>" novalidate>
+            <h3 class="nzlc-form-title"><?php echo esc_html( $atts['title'] ); ?></h3>
+            <div class="nzlc-notice" hidden></div>
+            <p>
+                <label for="nzlc-name"><?php esc_html_e( 'Your name *', 'nz-lead-capture' ); ?></label>
+                <input id="nzlc-name" name="nzlc_name" type="text" required maxlength="120" autocomplete="name" />
+            </p>
+            <p>
+                <label for="nzlc-email"><?php esc_html_e( 'Email *', 'nz-lead-capture' ); ?></label>
+                <input id="nzlc-email" name="nzlc_email" type="email" required maxlength="120" autocomplete="email" />
+            </p>
+            <p>
+                <label for="nzlc-phone"><?php esc_html_e( 'Phone / WhatsApp', 'nz-lead-capture' ); ?></label>
+                <input id="nzlc-phone" name="nzlc_phone" type="tel" maxlength="40" autocomplete="tel" />
+            </p>
+            <p>
+                <label for="nzlc-service"><?php esc_html_e( 'What do you need?', 'nz-lead-capture' ); ?></label>
+                <select id="nzlc-service" name="nzlc_service">
+                    <?php foreach ( $services as $key => $label ) : ?>
+                        <option value="<?php echo esc_attr( $key ); ?>"><?php echo esc_html( $label ); ?></option>
+                    <?php endforeach; ?>
+                </select>
+            </p>
+            <p>
+                <label for="nzlc-message"><?php esc_html_e( 'Tell us about your project *', 'nz-lead-capture' ); ?></label>
+                <textarea id="nzlc-message" name="nzlc_message" rows="4" required maxlength="2000"></textarea>
+            </p>
+            <?php // Honeypot: hidden from humans, filled by naive bots. ?>
+            <p class="nzlc-honeypot" aria-hidden="true">
+                <label>Leave this field empty<input name="nzlc_company" type="text" tabindex="-1" autocomplete="off" /></label>
+            </p>
+            <?php wp_nonce_field( 'nzlc_submit', 'nzlc_nonce' ); ?>
+            <input type="hidden" name="nzlc_submitted" value="1" />
+            <p><button class="nzlc-submit" type="submit"><?php echo esc_html( $atts['button'] ); ?></button></p>
+        </form>
+        <?php
+        return ob_get_clean();
+    }
+
+    /**
+     * Validate + sanitize raw input. Returns [ $data, $errors ].
+     * Shared by the AJAX and plain-POST paths so both behave identically.
+     */
+    public static function validate( array $input ) {
+        $errors = array();
+        $data   = array(
+            'name'    => isset( $input['nzlc_name'] ) ? sanitize_text_field( wp_unslash( $input['nzlc_name'] ) ) : '',
+            'email'   => isset( $input['nzlc_email'] ) ? sanitize_email( wp_unslash( $input['nzlc_email'] ) ) : '',
+            'phone'   => isset( $input['nzlc_phone'] ) ? sanitize_text_field( wp_unslash( $input['nzlc_phone'] ) ) : '',
+            'service' => isset( $input['nzlc_service'] ) ? sanitize_key( wp_unslash( $input['nzlc_service'] ) ) : '',
+            'message' => isset( $input['nzlc_message'] ) ? sanitize_textarea_field( wp_unslash( $input['nzlc_message'] ) ) : '',
+            'source'  => isset( $_SERVER['HTTP_REFERER'] ) ? esc_url_raw( wp_unslash( $_SERVER['HTTP_REFERER'] ) ) : '',
+        );
+        if ( mb_strlen( $data['name'] ) < 2 ) {
+            $errors[] = __( 'Please enter your name.', 'nz-lead-capture' );
+        }
+        if ( ! is_email( $data['email'] ) ) {
+            $errors[] = __( 'Please enter a valid email address.', 'nz-lead-capture' );
+        }
+        if ( mb_strlen( $data['message'] ) < 10 ) {
+            $errors[] = __( 'Please tell us a little more about your project (at least 10 characters).', 'nz-lead-capture' );
+        }
+        if ( $data['service'] && ! array_key_exists( $data['service'], NZLC_Storage::allowed_services() ) ) {
+            $errors[] = __( 'Please choose a valid service.', 'nz-lead-capture' );
+        }
+        // Honeypot must stay empty; a filled one is a bot, not a user error.
+        if ( ! empty( $input['nzlc_company'] ) ) {
+            $errors[] = 'spam';
+        }
+        return array( $data, $errors );
+    }
+
+    /**
+     * Store a validated lead and notify the site owner. Returns the lead ID.
+     */
+    public static function store_and_notify( array $data ) {
+        $lead_id = NZLC_Storage::insert( $data );
+        if ( ! $lead_id ) {
+            return 0;
+        }
+        $notify = get_option( 'nzlc_notify_email', get_option( 'admin_email' ) );
+        if ( $notify && is_email( $notify ) ) {
+            $subject = sprintf(
+                /* translators: %s: lead name */
+                __( 'New lead: %s', 'nz-lead-capture' ),
+                $data['name']
+            );
+            $body = sprintf(
+                "Name: %s\nEmail: %s\nPhone: %s\nService: %s\n\n%s\n",
+                $data['name'], $data['email'], $data['phone'], $data['service'], $data['message']
+            );
+            wp_mail( $notify, $subject, $body );
+        }
+        return $lead_id;
+    }
+
+    public static function ajax_submit() {
+        check_ajax_referer( 'nzlc_submit', 'nonce' );
+        list( $data, $errors ) = self::validate( $_POST );
+        if ( $errors ) {
+            wp_send_json_error( array( 'errors' => $errors ), 422 );
+        }
+        $lead_id = self::store_and_notify( $data );
+        if ( ! $lead_id ) {
+            wp_send_json_error( array( 'errors' => array( __( 'Something went wrong. Please try again.', 'nz-lead-capture' ) ) ), 500 );
+        }
+        wp_send_json_success( array( 'lead_id' => $lead_id, 'message' => get_option( 'nzlc_success_message' ) ) );
+    }
+
+    /**
+     * Non-JS fallback: a plain POST to the same page, verified by nonce.
+     * On success the visitor sees the success message instead of the form.
+     */
+    public static function handle_plain_post() {
+        if ( empty( $_POST['nzlc_submitted'] ) || ! is_singular() ) {
+            return;
+        }
+        if ( ! isset( $_POST['nzlc_nonce'] ) || ! wp_verify_nonce( sanitize_key( wp_unslash( $_POST['nzlc_nonce'] ) ), 'nzlc_submit' ) ) {
+            return;
+        }
+        list( $data, $errors ) = self::validate( $_POST );
+        if ( $errors ) {
+            return; // Form re-renders; the user can correct and resubmit.
+        }
+        self::store_and_notify( $data );
+        add_filter(
+            'the_content',
+            function ( $content ) {
+                return '<div class="nzlc-success" role="status">' . esc_html( get_option( 'nzlc_success_message' ) ) . '</div>' . $content;
+            }
+        );
+    }
+}
