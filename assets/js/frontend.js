@@ -1,1 +1,66 @@
-LyoqCiAqIE5aIExlYWQgQ2FwdHVyZSDigJQgQUpBWCBzdWJtaXNzaW9uIHdpdGggYSBwbGFpbi1QT1NUIGZhbGxiYWNrLgogKiBJZiBKYXZhU2NyaXB0IGlzIG9mZiwgdGhlIGZvcm0gc2ltcGx5IHBvc3RzIG5vcm1hbGx5IChzZWUgY2xhc3MtbnpsYy1mb3JtLnBocCkuCiAqLwooZnVuY3Rpb24gKCkgewogICd1c2Ugc3RyaWN0JzsKCiAgZnVuY3Rpb24gcmVhZHkoZm4pIHsKICAgIGlmIChkb2N1bWVudC5yZWFkeVN0YXRlICE9PSAnbG9hZGluZycpIHsKICAgICAgZm4oKTsKICAgIH0gZWxzZSB7CiAgICAgIGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoJ0RPTUNvbnRlbnRMb2FkZWQnLCBmbik7CiAgICB9CiAgfQoKICByZWFkeShmdW5jdGlvbiAoKSB7CiAgICB2YXIgZm9ybXMgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCcubnpsYy1mb3JtJyk7CiAgICBpZiAoIWZvcm1zLmxlbmd0aCB8fCB0eXBlb2YgTlpMQyA9PT0gJ3VuZGVmaW5lZCcpIHsKICAgICAgcmV0dXJuOwogICAgfQoKICAgIGZvcm1zLmZvckVhY2goZnVuY3Rpb24gKGZvcm0pIHsKICAgICAgdmFyIG5vdGljZSA9IGZvcm0ucXVlcnlTZWxlY3RvcignLm56bGMtbm90aWNlJyk7CiAgICAgIHZhciBidXR0b24gPSBmb3JtLnF1ZXJ5U2VsZWN0b3IoJy5uemxjLXN1Ym1pdCcpOwoKICAgICAgZnVuY3Rpb24gc2hvdyhtZXNzYWdlLCBvaykgewogICAgICAgIG5vdGljZS5oaWRkZW4gPSBmYWxzZTsKICAgICAgICBub3RpY2UudGV4dENvbnRlbnQgPSBtZXNzYWdlOwogICAgICAgIG5vdGljZS5jbGFzc0xpc3QudG9nZ2xlKCdvaycsICEhb2spOwogICAgICAgIG5vdGljZS5jbGFzc0xpc3QudG9nZ2xlKCdlcnInLCAhb2spOwogICAgICAgIG5vdGljZS5zY3JvbGxJbnRvVmlldyh7IGJlaGF2aW9yOiAnc21vb3RoJywgYmxvY2s6ICduZWFyZXN0JyB9KTsKICAgICAgfQoKICAgICAgZm9ybS5hZGRFdmVudExpc3RlbmVyKCdzdWJtaXQnLCBmdW5jdGlvbiAoZSkgewogICAgICAgIGUucHJldmVudERlZmF1bHQoKTsKICAgICAgICBpZiAoYnV0dG9uKSB7CiAgICAgICAgICBidXR0b24uZGlzYWJsZWQgPSB0cnVlOwogICAgICAgIH0KICAgICAgICB2YXIgZGF0YSA9IG5ldyBGb3JtRGF0YShmb3JtKTsKICAgICAgICBkYXRhLmFwcGVuZCgnYWN0aW9uJywgJ256bGNfc3VibWl0Jyk7CiAgICAgICAgZGF0YS5hcHBlbmQoJ25vbmNlJywgTlpMQy5ub25jZSk7CgogICAgICAgIGZldGNoKE5aTEMuYWpheFVybCwgeyBtZXRob2Q6ICdQT1NUJywgY3JlZGVudGlhbHM6ICdzYW1lLW9yaWdpbicsIGJvZHk6IGRhdGEgfSkKICAgICAgICAgIC50aGVuKGZ1bmN0aW9uIChyZXMpIHsgcmV0dXJuIHJlcy5qc29uKCk7IH0pCiAgICAgICAgICAudGhlbihmdW5jdGlvbiAoanNvbikgewogICAgICAgICAgICBpZiAoanNvbiAmJiBqc29uLnN1Y2Nlc3MpIHsKICAgICAgICAgICAgICBzaG93KGpzb24uZGF0YS5tZXNzYWdlIHx8ICdUaGFua3MhIFdlIHdpbGwgYmUgaW4gdG91Y2guJywgdHJ1ZSk7CiAgICAgICAgICAgICAgZm9ybS5yZXNldCgpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgIHZhciBlcnJzID0gKGpzb24gJiYganNvbi5kYXRhICYmIGpzb24uZGF0YS5lcnJvcnMpIHx8IFsnU29tZXRoaW5nIHdlbnQgd3JvbmcuJ107CiAgICAgICAgICAgICAgc2hvdyhlcnJzLmpvaW4oJyAnKSwgZmFsc2UpOwogICAgICAgICAgICB9CiAgICAgICAgICB9KQogICAgICAgICAgLmNhdGNoKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgLy8gQUpBWCBmYWlsZWQgKGUuZy4gYmxvY2tlZCBlbmRwb2ludCk6IGZhbGwgYmFjayB0byBhIHBsYWluIFBPU1QuCiAgICAgICAgICAgIGZvcm0uc3VibWl0KCk7CiAgICAgICAgICB9KQogICAgICAgICAgLmZpbmFsbHkoZnVuY3Rpb24gKCkgewogICAgICAgICAgICBpZiAoYnV0dG9uKSB7CiAgICAgICAgICAgICAgYnV0dG9uLmRpc2FibGVkID0gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0pOwogICAgICB9KTsKICAgIH0pOwogIH0pOwp9KSgpOwo=
+/**
+ * NZ Lead Capture — AJAX submission with a plain-POST fallback.
+ * If JavaScript is off, the form simply posts normally (see class-nzlc-form.php).
+ */
+(function () {
+  'use strict';
+
+  function ready(fn) {
+    if (document.readyState !== 'loading') {
+      fn();
+    } else {
+      document.addEventListener('DOMContentLoaded', fn);
+    }
+  }
+
+  ready(function () {
+    var forms = document.querySelectorAll('.nzlc-form');
+    if (!forms.length || typeof NZLC === 'undefined') {
+      return;
+    }
+
+    forms.forEach(function (form) {
+      var notice = form.querySelector('.nzlc-notice');
+      var button = form.querySelector('.nzlc-submit');
+
+      function show(message, ok) {
+        notice.hidden = false;
+        notice.textContent = message;
+        notice.classList.toggle('ok', !!ok);
+        notice.classList.toggle('err', !ok);
+        notice.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      }
+
+      form.addEventListener('submit', function (e) {
+        e.preventDefault();
+        if (button) {
+          button.disabled = true;
+        }
+        var data = new FormData(form);
+        data.append('action', 'nzlc_submit');
+        data.append('nonce', NZLC.nonce);
+
+        fetch(NZLC.ajaxUrl, { method: 'POST', credentials: 'same-origin', body: data })
+          .then(function (res) { return res.json(); })
+          .then(function (json) {
+            if (json && json.success) {
+              show(json.data.message || 'Thanks! We will be in touch.', true);
+              form.reset();
+            } else {
+              var errs = (json && json.data && json.data.errors) || ['Something went wrong.'];
+              show(errs.join(' '), false);
+            }
+          })
+          .catch(function () {
+            // AJAX failed (e.g. blocked endpoint): fall back to a plain POST.
+            form.submit();
+          })
+          .finally(function () {
+            if (button) {
+              button.disabled = false;
+            }
+          });
+      });
+    });
+  });
+})();
