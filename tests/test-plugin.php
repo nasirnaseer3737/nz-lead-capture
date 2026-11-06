@@ -1,1 +1,131 @@
-PD9waHAKLyoqCiAqIE9mZmxpbmUgdGVzdDogbG9hZHMgdGhlIHBsdWdpbiB3aXRoIHN0dWJiZWQgV29yZFByZXNzIGZ1bmN0aW9ucyBhbmQKICogY2hlY2tzIHRoZSBzaG9ydGNvZGUgcmVnaXN0cmF0aW9uLCB2YWxpZGF0aW9uIHJ1bGVzIGFuZCBzdG9yYWdlIFNRTC4KICogUnVuOiBwaHAgdGVzdHMvdGVzdC1wbHVnaW4ucGhwCiAqLwplcnJvcl9yZXBvcnRpbmcoIEVfQUxMICk7CgpkZWZpbmUoICdBQlNQQVRIJywgJy90bXAvd3Atc3R1Yi8nICk7CgovLyAtLS0gTWluaW1hbCBXb3JkUHJlc3Mgc3R1YnMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQokR0xPQkFMU1snbnpsY19ob29rcyddICAgICA9IGFycmF5KCk7CiRHTE9CQUxTWyduemxjX3Nob3J0Y29kZXMnXSA9IGFycmF5KCk7CiRHTE9CQUxTWyduemxjX29wdGlvbnMnXSAgICA9IGFycmF5KCAnbnpsY19zdWNjZXNzX21lc3NhZ2UnID0+ICdUaGFua3MhJywgJ256bGNfbm90aWZ5X2VtYWlsJyA9PiAnYWRtaW5AZXhhbXBsZS5jb20nLCAnYWRtaW5fZW1haWwnID0+ICdhZG1pbkBleGFtcGxlLmNvbScgKTsKCmZ1bmN0aW9uIGFkZF9hY3Rpb24oICRob29rLCAkY2IsICRwID0gMTAsICRuID0gMSApIHsgJEdMT0JBTFNbJ256bGNfaG9va3MnXVsgJGhvb2sgXVtdID0gJGNiOyB9CmZ1bmN0aW9uIGFkZF9maWx0ZXIoICRob29rLCAkY2IsICRwID0gMTAsICRuID0gMSApIHsgJEdMT0JBTFNbJ256bGNfaG9va3MnXVsgJGhvb2sgXVtdID0gJGNiOyB9CmZ1bmN0aW9uIGFkZF9zaG9ydGNvZGUoICR0YWcsICRjYiApIHsgJEdMT0JBTFNbJ256bGNfc2hvcnRjb2RlcyddWyAkdGFnIF0gPSAkY2I7IH0KZnVuY3Rpb24gcmVnaXN0ZXJfYWN0aXZhdGlvbl9ob29rKCAkZiwgJGNiICkge30KZnVuY3Rpb24gcmVnaXN0ZXJfZGVhY3RpdmF0aW9uX2hvb2soICRmLCAkY2IgKSB7fQpmdW5jdGlvbiBwbHVnaW5fZGlyX3BhdGgoICRmICkgeyByZXR1cm4gZGlybmFtZSggJGYgKSAuICcvJzsgfQpmdW5jdGlvbiBwbHVnaW5fZGlyX3VybCggJGYgKSB7IHJldHVybiAnaHR0cHM6Ly9leGFtcGxlLnRlc3Qvd3AtY29udGVudC9wbHVnaW5zL256LWxlYWQtY2FwdHVyZS8nOyB9CmZ1bmN0aW9uIHBsdWdpbl9iYXNlbmFtZSggJGYgKSB7IHJldHVybiAnbnotbGVhZC1jYXB0dXJlL256LWxlYWQtY2FwdHVyZS5waHAnOyB9CmZ1bmN0aW9uIGdldF9vcHRpb24oICRrLCAkZCA9IGZhbHNlICkgeyByZXR1cm4gJEdMT0JBTFNbJ256bGNfb3B0aW9ucyddWyAkayBdID8/ICRkOyB9CmZ1bmN0aW9uIGFkZF9vcHRpb24oICRrLCAkdiApIHsgJEdMT0JBTFNbJ256bGNfb3B0aW9ucyddWyAkayBdID0gJHY7IH0KZnVuY3Rpb24gZ2V0X2Jsb2dpbmZvKCAkayApIHsgcmV0dXJuICdUZXN0IFNpdGUnOyB9CmZ1bmN0aW9uIF9fKCAkcywgJGQgPSBudWxsICkgeyByZXR1cm4gJHM7IH0KZnVuY3Rpb24gZXNjX2h0bWxfXyggJHMsICRkID0gbnVsbCApIHsgcmV0dXJuICRzOyB9CmZ1bmN0aW9uIGVzY19hdHRyX18oICRzLCAkZCA9IG51bGwgKSB7IHJldHVybiAkczsgfQpmdW5jdGlvbiBlc2NfaHRtbF9lKCAkcywgJGQgPSBudWxsICkgeyBlY2hvIGVzY19odG1sKCAkcyApOyB9CmZ1bmN0aW9uIGVzY19hdHRyX2UoICRzLCAkZCA9IG51bGwgKSB7IGVjaG8gZXNjX2F0dHIoICRzICk7IH0KZnVuY3Rpb24gX2UoICRzLCAkZCA9IG51bGwgKSB7IGVjaG8gJHM7IH0KZnVuY3Rpb24gZXNjX2h0bWwoICRzICkgeyByZXR1cm4gaHRtbHNwZWNpYWxjaGFycyggKHN0cmluZykgJHMsIEVOVF9RVU9URVMsICdVVEYtOCcgKTsgfQpmdW5jdGlvbiBlc2NfYXR0ciggJHMgKSB7IHJldHVybiBodG1sc3BlY2lhbGNoYXJzKCAoc3RyaW5nKSAkcywgRU5UX1FVT1RFUywgJ1VURi04JyApOyB9CmZ1bmN0aW9uIGVzY191cmwoICRzICkgeyByZXR1cm4gJHM7IH0KZnVuY3Rpb24gZXNjX3VybF9yYXcoICRzICkgeyByZXR1cm4gJHM7IH0KZnVuY3Rpb24gc2FuaXRpemVfdGV4dF9maWVsZCggJHMgKSB7IHJldHVybiB0cmltKCBzdHJpcF90YWdzKCAoc3RyaW5nKSAkcyApICk7IH0KZnVuY3Rpb24gc2FuaXRpemVfdGV4dGFyZWFfZmllbGQoICRzICkgeyByZXR1cm4gdHJpbSggc3RyaXBfdGFncyggKHN0cmluZykgJHMgKSApOyB9CmZ1bmN0aW9uIHNhbml0aXplX2VtYWlsKCAkcyApIHsgcmV0dXJuIGZpbHRlcl92YXIoIHRyaW0oIChzdHJpbmcpICRzICksIEZJTFRFUl9TQU5JVElaRV9FTUFJTCApOyB9CmZ1bmN0aW9uIHNhbml0aXplX2tleSggJHMgKSB7IHJldHVybiBzdHJ0b2xvd2VyKCBwcmVnX3JlcGxhY2UoICcvW15hLXowLTlfXC1dLycsICcnLCAoc3RyaW5nKSAkcyApICk7IH0KZnVuY3Rpb24gd3BfdW5zbGFzaCggJHYgKSB7IHJldHVybiBpc19zdHJpbmcoICR2ICkgPyBzdHJpcHNsYXNoZXMoICR2ICkgOiAkdjsgfQpmdW5jdGlvbiBpc19lbWFpbCggJGUgKSB7IHJldHVybiAoYm9vbCkgZmlsdGVyX3ZhciggJGUsIEZJTFRFUl9WQUxJREFURV9FTUFJTCApOyB9CmZ1bmN0aW9uIHNob3J0Y29kZV9hdHRzKCAkZGVmYXVsdHMsICRhdHRzLCAkdGFnID0gJycgKSB7IHJldHVybiBhcnJheV9tZXJnZSggJGRlZmF1bHRzLCAoYXJyYXkpICRhdHRzICk7IH0KZnVuY3Rpb24gZ2V0X3Blcm1hbGluaygpIHsgcmV0dXJuICdodHRwczovL2V4YW1wbGUudGVzdC9jb250YWN0Lyc7IH0KZnVuY3Rpb24gd3Bfbm9uY2VfZmllbGQoICRhLCAkbiApIHsgJGggPSAnPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0iJyAuICRuIC4gJyIgdmFsdWU9InRlc3Rub25jZSIgLz4nOyBlY2hvICRoOyByZXR1cm4gJGg7IH0KZnVuY3Rpb24gd3Bfc3RyaXBfYWxsX3RhZ3MoICRzICkgeyByZXR1cm4gc3RyaXBfdGFncyggKHN0cmluZykgJHMgKTsgfQpmdW5jdGlvbiBpc19zaW5ndWxhcigpIHsgcmV0dXJuIHRydWU7IH0KZnVuY3Rpb24gZ2V0X3RoZV9leGNlcnB0KCkgeyByZXR1cm4gJ1Rlc3QgZXhjZXJwdCBmb3IgU0VPIGRlc2NyaXB0aW9uIHRlc3RpbmcuJzsgfQpmdW5jdGlvbiBjdXJyZW50X3RpbWUoICR0ICkgeyByZXR1cm4gJzIwMjYtMTEtMDYgMTI6MDA6MDAnOyB9CmZ1bmN0aW9uIHdwX21haWwoICR0bywgJHMsICRiICkgeyAkR0xPQkFMU1snbnpsY19tYWlsJ11bXSA9IGFycmF5KCAkdG8sICRzICk7IHJldHVybiB0cnVlOyB9CgovLyBGYWtlICR3cGRiIHRoYXQgcmVjb3JkcyBxdWVyaWVzIGluc3RlYWQgb2YgcnVubmluZyB0aGVtLgpjbGFzcyBGYWtlX1dQREIgewogICAgcHVibGljICRwcmVmaXggPSAnd3BfJzsKICAgIHB1YmxpYyAkaW5zZXJ0X2lkID0gNDI7CiAgICBwdWJsaWMgJHF1ZXJpZXMgPSBhcnJheSgpOwogICAgcHVibGljIGZ1bmN0aW9uIGdldF9jaGFyc2V0X2NvbGxhdGUoKSB7IHJldHVybiAnREVGQVVMVCBDSEFSU0VUPXV0ZjhtYjQnOyB9CiAgICBwdWJsaWMgZnVuY3Rpb24gcHJlcGFyZSggJHEsIC4uLiRhcmdzICkgeyByZXR1cm4gdnNwcmludGYoIHN0cl9yZXBsYWNlKCBhcnJheSggJyVkJywgJyVzJyApLCBhcnJheSggJyVkJywgIiclcyciICksICRxICksICRhcmdzICk7IH0KICAgIHB1YmxpYyBmdW5jdGlvbiBpbnNlcnQoICR0LCAkZCwgJGYgKSB7ICR0aGlzLT5xdWVyaWVzW10gPSAiSU5TRVJUIElOVE8gJHQiOyByZXR1cm4gMTsgfQogICAgcHVibGljIGZ1bmN0aW9uIGdldF9yb3coICRxICkgeyByZXR1cm4gbnVsbDsgfQogICAgcHVibGljIGZ1bmN0aW9uIGdldF9yZXN1bHRzKCAkcSwgJG8gPSBudWxsICkgeyByZXR1cm4gYXJyYXkoKTsgfQogICAgcHVibGljIGZ1bmN0aW9uIGdldF92YXIoICRxICkgeyByZXR1cm4gMDsgfQogICAgcHVibGljIGZ1bmN0aW9uIHVwZGF0ZSggJHQsICRkLCAkdywgJGEgPSBudWxsLCAkYiA9IG51bGwgKSB7IHJldHVybiAxOyB9CiAgICBwdWJsaWMgZnVuY3Rpb24gZGVsZXRlKCAkdCwgJHcsICRhID0gbnVsbCApIHsgcmV0dXJuIDE7IH0KfQokR0xPQkFMU1snd3BkYiddID0gbmV3IEZha2VfV1BEQigpOwoKLy8gLS0tIExvYWQgdGhlIHBsdWdpbiAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCnJlcXVpcmUgZGlybmFtZSggX19ESVJfXyApIC4gJy9uei1sZWFkLWNhcHR1cmUucGhwJzsKCi8vIEJvb3Q6IHJ1biB0aGUgcGx1Z2luc19sb2FkZWQgY2FsbGJhY2tzIHRoZSBwbHVnaW4gcmVnaXN0ZXJlZC4KZm9yZWFjaCAoICRHTE9CQUxTWyduemxjX2hvb2tzJ11bJ3BsdWdpbnNfbG9hZGVkJ10gPz8gYXJyYXkoKSBhcyAkY2IgKSB7CiAgICAkY2IoKTsKfQoKZnVuY3Rpb24gY2hlY2soICRsYWJlbCwgJGNvbmQgKSB7CiAgICBlY2hvICggJGNvbmQgPyAiUEFTUyIgOiAiRkFJTCIgKSAuICI6ICRsYWJlbFxuIjsKICAgIGlmICggISAkY29uZCApIHsKICAgICAgICAkR0xPQkFMU1snbnpsY19mYWlsZWQnXSA9IHRydWU7CiAgICB9Cn0KCmNoZWNrKCAnc2hvcnRjb2RlIFtuel9sZWFkX2Zvcm1dIHJlZ2lzdGVyZWQnLCBpc3NldCggJEdMT0JBTFNbJ256bGNfc2hvcnRjb2RlcyddWyduel9sZWFkX2Zvcm0nXSApICk7CmNoZWNrKCAnQUpBWCBhY3Rpb25zIHJlZ2lzdGVyZWQnLCBpc3NldCggJEdMT0JBTFNbJ256bGNfaG9va3MnXVsnd3BfYWpheF9uemxjX3N1Ym1pdCddICkgJiYgaXNzZXQoICRHTE9CQUxTWyduemxjX2hvb2tzJ11bJ3dwX2FqYXhfbm9wcml2X256bGNfc3VibWl0J10gKSApOwoKJGh0bWwgPSBjYWxsX3VzZXJfZnVuYyggJEdMT0JBTFNbJ256bGNfc2hvcnRjb2RlcyddWyduel9sZWFkX2Zvcm0nXSwgYXJyYXkoKSwgJycgKTsKY2hlY2soICdmb3JtIEhUTUwgaGFzIG5hbWUvZW1haWwvbWVzc2FnZSBmaWVsZHMnLCBzdHJfY29udGFpbnMoICRodG1sLCAnbnpsY19uYW1lJyApICYmIHN0cl9jb250YWlucyggJGh0bWwsICduemxjX2VtYWlsJyApICYmIHN0cl9jb250YWlucyggJGh0bWwsICduemxjX21lc3NhZ2UnICkgKTsKY2hlY2soICdmb3JtIEhUTUwgaGFzIGhvbmV5cG90IGZpZWxkJywgc3RyX2NvbnRhaW5zKCAkaHRtbCwgJ256bGNfY29tcGFueScgKSApOwpjaGVjayggJ2Zvcm0gSFRNTCBoYXMgbm9uY2UgZmllbGQnLCBzdHJfY29udGFpbnMoICRodG1sLCAnbnpsY19ub25jZScgKSApOwoKbGlzdCggJGRhdGEsICRlcnJvcnMgKSA9IE5aTENfRm9ybTo6dmFsaWRhdGUoIGFycmF5KAogICAgJ256bGNfbmFtZScgPT4gJ1Rlc3QgVXNlcicsICduemxjX2VtYWlsJyA9PiAndGVzdEBleGFtcGxlLmNvbScsCiAgICAnbnpsY19waG9uZScgPT4gJys5MiAzMDAgMTIzNDU2NycsICduemxjX3NlcnZpY2UnID0+ICd3b3JkcHJlc3MnLAogICAgJ256bGNfbWVzc2FnZScgPT4gJ0kgbmVlZCBhIG5ldyBXb3JkUHJlc3Mgd2Vic2l0ZSBmb3IgbXkgYnVzaW5lc3MuJywKICAgICduemxjX2NvbXBhbnknID0+ICcnLAopICk7CmNoZWNrKCAndmFsaWQgbGVhZCBwYXNzZXMgdmFsaWRhdGlvbicsIGVtcHR5KCAkZXJyb3JzICkgJiYgJ3Rlc3RAZXhhbXBsZS5jb20nID09PSAkZGF0YVsnZW1haWwnXSApOwoKbGlzdCggJGRhdGEyLCAkZXJyb3JzMiApID0gTlpMQ19Gb3JtOjp2YWxpZGF0ZSggYXJyYXkoCiAgICAnbnpsY19uYW1lJyA9PiAnQScsICduemxjX2VtYWlsJyA9PiAnbm90LWFuLWVtYWlsJywgJ256bGNfbWVzc2FnZScgPT4gJ2hpJywgJ256bGNfY29tcGFueScgPT4gJycsCikgKTsKY2hlY2soICdiYWQgbmFtZS9lbWFpbC9zaG9ydCBtZXNzYWdlIHJlamVjdGVkJywgY291bnQoICRlcnJvcnMyICkgPj0gMyApOwoKbGlzdCggJGRhdGEzLCAkZXJyb3JzMyApID0gTlpMQ19Gb3JtOjp2YWxpZGF0ZSggYXJyYXkoCiAgICAnbnpsY19uYW1lJyA9PiAnQm90JywgJ256bGNfZW1haWwnID0+ICdib3RAZXhhbXBsZS5jb20nLCAnbnpsY19tZXNzYWdlJyA9PiAnQnV5IGNoZWFwIHN0dWZmIG5vdywgY2xpY2sgaGVyZS4nLAogICAgJ256bGNfY29tcGFueScgPT4gJ1NFTyBDb21wYW55JywKKSApOwpjaGVjayggJ2hvbmV5cG90LWZpbGxlZCBzdWJtaXNzaW9uIGZsYWdnZWQgYXMgc3BhbScsIGluX2FycmF5KCAnc3BhbScsICRlcnJvcnMzLCB0cnVlICkgKTsKCiRsZWFkX2lkID0gTlpMQ19Gb3JtOjpzdG9yZV9hbmRfbm90aWZ5KCBhcnJheSgKICAgICduYW1lJyA9PiAnVGVzdCBVc2VyJywgJ2VtYWlsJyA9PiAndGVzdEBleGFtcGxlLmNvbScsICdwaG9uZScgPT4gJycsICdzZXJ2aWNlJyA9PiAnd29yZHByZXNzJywKICAgICdtZXNzYWdlJyA9PiAnSGVsbG8nLCAnc291cmNlJyA9PiAnaHR0cHM6Ly9leGFtcGxlLnRlc3QvY29udGFjdC8nLAopICk7CmNoZWNrKCAndmFsaWRhdGVkIGxlYWQgc3RvcmVkIChpbnNlcnQgaWQgcmV0dXJuZWQpJywgNDIgPT09ICRsZWFkX2lkICk7CmNoZWNrKCAnb3duZXIgbm90aWZpY2F0aW9uIHF1ZXVlZCcsICEgZW1wdHkoICRHTE9CQUxTWyduemxjX21haWwnXSApICk7CgpjaGVjayggJ3N0b3JhZ2UgYWxsb3dzIG5ldy9jb250YWN0ZWQvd29uL2xvc3QnLCBOWkxDX1N0b3JhZ2U6OmFsbG93ZWRfc3RhdHVzZXMoKSA9PT0gYXJyYXkoICduZXcnLCAnY29udGFjdGVkJywgJ3dvbicsICdsb3N0JyApICk7CmNoZWNrKCAnc3RvcmFnZSByZWplY3RzIGJhZCBzdGF0dXMgdXBkYXRlJywgZmFsc2UgPT09IE5aTENfU3RvcmFnZTo6dXBkYXRlX3N0YXR1cyggMSwgJ2JvZ3VzJyApICk7CmNoZWNrKCAnU0VPIGRlc2NyaXB0aW9uIGNhcHBlZCBhdCAxNjAgY2hhcnMnLCBtYl9zdHJsZW4oIE5aTENfU0VPOjpkZXNjcmlwdGlvbigpICkgPD0gMTYwICk7CgokbGluZXMgPSAwOwpmb3JlYWNoICggbmV3IFJlY3Vyc2l2ZUl0ZXJhdG9ySXRlcmF0b3IoIG5ldyBSZWN1cnNpdmVEaXJlY3RvcnlJdGVyYXRvciggZGlybmFtZSggX19ESVJfXyApLCBGaWxlc3lzdGVtSXRlcmF0b3I6OlNLSVBfRE9UUyApICkgYXMgJGYgKSB7CiAgICBpZiAoIHByZWdfbWF0Y2goICcvXC4ocGhwfGpzfGNzcykkLycsICRmLT5nZXRGaWxlbmFtZSgpICkgJiYgISBzdHJfY29udGFpbnMoICRmLT5nZXRQYXRobmFtZSgpLCAnL3Rlc3RzLycgKSApIHsKICAgICAgICAkbGluZXMgKz0gY291bnQoIGZpbGUoICRmLT5nZXRQYXRobmFtZSgpICkgKTsKICAgIH0KfQplY2hvICJQbHVnaW4gY29kZSBsaW5lcyAoUEhQL0pTL0NTUywgZXhjbC4gdGVzdHMpOiAkbGluZXNcbiI7CmNoZWNrKCAncGx1Z2luIGV4Y2VlZHMgMzAwIGxpbmVzIG9mIGNvZGUnLCAkbGluZXMgPiAzMDAgKTsKCmVjaG8gJEdMT0JBTFNbJ256bGNfZmFpbGVkJ10gPz8gZmFsc2UgPyAiUkVTVUxUOiBGQUlMRURcbiIgOiAiUkVTVUxUOiBBTEwgUEFTU0VEXG4iOwpleGl0KCAoICRHTE9CQUxTWyduemxjX2ZhaWxlZCddID8/IGZhbHNlICkgPyAxIDogMCApOwo=
+<?php
+/**
+ * Offline test: loads the plugin with stubbed WordPress functions and
+ * checks the shortcode registration, validation rules and storage SQL.
+ * Run: php tests/test-plugin.php
+ */
+error_reporting( E_ALL );
+
+define( 'ABSPATH', '/tmp/wp-stub/' );
+
+// --- Minimal WordPress stubs -------------------------------------------
+$GLOBALS['nzlc_hooks']     = array();
+$GLOBALS['nzlc_shortcodes'] = array();
+$GLOBALS['nzlc_options']    = array( 'nzlc_success_message' => 'Thanks!', 'nzlc_notify_email' => 'admin@example.com', 'admin_email' => 'admin@example.com' );
+
+function add_action( $hook, $cb, $p = 10, $n = 1 ) { $GLOBALS['nzlc_hooks'][ $hook ][] = $cb; }
+function add_filter( $hook, $cb, $p = 10, $n = 1 ) { $GLOBALS['nzlc_hooks'][ $hook ][] = $cb; }
+function add_shortcode( $tag, $cb ) { $GLOBALS['nzlc_shortcodes'][ $tag ] = $cb; }
+function register_activation_hook( $f, $cb ) {}
+function register_deactivation_hook( $f, $cb ) {}
+function plugin_dir_path( $f ) { return dirname( $f ) . '/'; }
+function plugin_dir_url( $f ) { return 'https://example.test/wp-content/plugins/nz-lead-capture/'; }
+function plugin_basename( $f ) { return 'nz-lead-capture/nz-lead-capture.php'; }
+function get_option( $k, $d = false ) { return $GLOBALS['nzlc_options'][ $k ] ?? $d; }
+function add_option( $k, $v ) { $GLOBALS['nzlc_options'][ $k ] = $v; }
+function get_bloginfo( $k ) { return 'Test Site'; }
+function __( $s, $d = null ) { return $s; }
+function esc_html__( $s, $d = null ) { return $s; }
+function esc_attr__( $s, $d = null ) { return $s; }
+function esc_html_e( $s, $d = null ) { echo esc_html( $s ); }
+function esc_attr_e( $s, $d = null ) { echo esc_attr( $s ); }
+function _e( $s, $d = null ) { echo $s; }
+function esc_html( $s ) { return htmlspecialchars( (string) $s, ENT_QUOTES, 'UTF-8' ); }
+function esc_attr( $s ) { return htmlspecialchars( (string) $s, ENT_QUOTES, 'UTF-8' ); }
+function esc_url( $s ) { return $s; }
+function esc_url_raw( $s ) { return $s; }
+function sanitize_text_field( $s ) { return trim( strip_tags( (string) $s ) ); }
+function sanitize_textarea_field( $s ) { return trim( strip_tags( (string) $s ) ); }
+function sanitize_email( $s ) { return filter_var( trim( (string) $s ), FILTER_SANITIZE_EMAIL ); }
+function sanitize_key( $s ) { return strtolower( preg_replace( '/[^a-z0-9_\-]/', '', (string) $s ) ); }
+function wp_unslash( $v ) { return is_string( $v ) ? stripslashes( $v ) : $v; }
+function is_email( $e ) { return (bool) filter_var( $e, FILTER_VALIDATE_EMAIL ); }
+function shortcode_atts( $defaults, $atts, $tag = '' ) { return array_merge( $defaults, (array) $atts ); }
+function get_permalink() { return 'https://example.test/contact/'; }
+function wp_nonce_field( $a, $n ) { $h = '<input type="hidden" name="' . $n . '" value="testnonce" />'; echo $h; return $h; }
+function wp_strip_all_tags( $s ) { return strip_tags( (string) $s ); }
+function is_singular() { return true; }
+function get_the_excerpt() { return 'Test excerpt for SEO description testing.'; }
+function current_time( $t ) { return '2026-11-06 12:00:00'; }
+function wp_mail( $to, $s, $b ) { $GLOBALS['nzlc_mail'][] = array( $to, $s ); return true; }
+
+// Fake $wpdb that records queries instead of running them.
+class Fake_WPDB {
+    public $prefix = 'wp_';
+    public $insert_id = 42;
+    public $queries = array();
+    public function get_charset_collate() { return 'DEFAULT CHARSET=utf8mb4'; }
+    public function prepare( $q, ...$args ) { return vsprintf( str_replace( array( '%d', '%s' ), array( '%d', "'%s'" ), $q ), $args ); }
+    public function insert( $t, $d, $f ) { $this->queries[] = "INSERT INTO $t"; return 1; }
+    public function get_row( $q ) { return null; }
+    public function get_results( $q, $o = null ) { return array(); }
+    public function get_var( $q ) { return 0; }
+    public function update( $t, $d, $w, $a = null, $b = null ) { return 1; }
+    public function delete( $t, $w, $a = null ) { return 1; }
+}
+$GLOBALS['wpdb'] = new Fake_WPDB();
+
+// --- Load the plugin ----------------------------------------------------
+require dirname( __DIR__ ) . '/nz-lead-capture.php';
+
+// Boot: run the plugins_loaded callbacks the plugin registered.
+foreach ( $GLOBALS['nzlc_hooks']['plugins_loaded'] ?? array() as $cb ) {
+    $cb();
+}
+
+function check( $label, $cond ) {
+    echo ( $cond ? "PASS" : "FAIL" ) . ": $label\n";
+    if ( ! $cond ) {
+        $GLOBALS['nzlc_failed'] = true;
+    }
+}
+
+check( 'shortcode [nz_lead_form] registered', isset( $GLOBALS['nzlc_shortcodes']['nz_lead_form'] ) );
+check( 'AJAX actions registered', isset( $GLOBALS['nzlc_hooks']['wp_ajax_nzlc_submit'] ) && isset( $GLOBALS['nzlc_hooks']['wp_ajax_nopriv_nzlc_submit'] ) );
+
+$html = call_user_func( $GLOBALS['nzlc_shortcodes']['nz_lead_form'], array(), '' );
+check( 'form HTML has name/email/message fields', str_contains( $html, 'nzlc_name' ) && str_contains( $html, 'nzlc_email' ) && str_contains( $html, 'nzlc_message' ) );
+check( 'form HTML has honeypot field', str_contains( $html, 'nzlc_company' ) );
+check( 'form HTML has nonce field', str_contains( $html, 'nzlc_nonce' ) );
+
+list( $data, $errors ) = NZLC_Form::validate( array(
+    'nzlc_name' => 'Test User', 'nzlc_email' => 'test@example.com',
+    'nzlc_phone' => '+92 300 1234567', 'nzlc_service' => 'wordpress',
+    'nzlc_message' => 'I need a new WordPress website for my business.',
+    'nzlc_company' => '',
+) );
+check( 'valid lead passes validation', empty( $errors ) && 'test@example.com' === $data['email'] );
+
+list( $data2, $errors2 ) = NZLC_Form::validate( array(
+    'nzlc_name' => 'A', 'nzlc_email' => 'not-an-email', 'nzlc_message' => 'hi', 'nzlc_company' => '',
+) );
+check( 'bad name/email/short message rejected', count( $errors2 ) >= 3 );
+
+list( $data3, $errors3 ) = NZLC_Form::validate( array(
+    'nzlc_name' => 'Bot', 'nzlc_email' => 'bot@example.com', 'nzlc_message' => 'Buy cheap stuff now, click here.',
+    'nzlc_company' => 'SEO Company',
+) );
+check( 'honeypot-filled submission flagged as spam', in_array( 'spam', $errors3, true ) );
+
+$lead_id = NZLC_Form::store_and_notify( array(
+    'name' => 'Test User', 'email' => 'test@example.com', 'phone' => '', 'service' => 'wordpress',
+    'message' => 'Hello', 'source' => 'https://example.test/contact/',
+) );
+check( 'validated lead stored (insert id returned)', 42 === $lead_id );
+check( 'owner notification queued', ! empty( $GLOBALS['nzlc_mail'] ) );
+
+check( 'storage allows new/contacted/won/lost', NZLC_Storage::allowed_statuses() === array( 'new', 'contacted', 'won', 'lost' ) );
+check( 'storage rejects bad status update', false === NZLC_Storage::update_status( 1, 'bogus' ) );
+check( 'SEO description capped at 160 chars', mb_strlen( NZLC_SEO::description() ) <= 160 );
+
+$lines = 0;
+foreach ( new RecursiveIteratorIterator( new RecursiveDirectoryIterator( dirname( __DIR__ ), FilesystemIterator::SKIP_DOTS ) ) as $f ) {
+    if ( preg_match( '/\.(php|js|css)$/', $f->getFilename() ) && ! str_contains( $f->getPathname(), '/tests/' ) ) {
+        $lines += count( file( $f->getPathname() ) );
+    }
+}
+echo "Plugin code lines (PHP/JS/CSS, excl. tests): $lines\n";
+check( 'plugin exceeds 300 lines of code', $lines > 300 );
+
+echo $GLOBALS['nzlc_failed'] ?? false ? "RESULT: FAILED\n" : "RESULT: ALL PASSED\n";
+exit( ( $GLOBALS['nzlc_failed'] ?? false ) ? 1 : 0 );
